@@ -65,7 +65,10 @@ Cluster + same CEX deposit address + same on-chain activity at the same time, th
 
 
 
+
 CLUSTER 50
+
+
 The first 5 addresses of the cluster share the same OKX deposit address: 0xD82b6ec56B76D5cA43D7826dce4e3d2Ff9C173DE. The remaining addresses are linked to numerous other addresses within the cluster multiple times.
 
 0xb087e0033db8c075d9267e543c9e3b9f19bcc7f9
@@ -105,6 +108,7 @@ The first 5 addresses of the cluster share the same OKX deposit address: 0xD82b6
 0x6fbca37a3d4933f1ec9419a4c3da5d5329cddfc2
 0x2a89216e0135be6cae98fb207cb024b96de980c3
 
+![n](https://github.com/onizukais/sybil-check/assets/170208261/295e3410-de54-49e9-b1d3-2e8e4fc53b95)
 
 
  
@@ -112,9 +116,34 @@ The first 5 addresses of the cluster share the same OKX deposit address: 0xD82b6
 
 These addresses exhibit the same on-chain activity. 
 
-   
+<img width="1497" alt="Capture d’écran 2024-05-19 à 22 22 13" src="https://github.com/onizukais/sybil-check/assets/170208261/b521be21-fbda-454a-82db-1ffe02be74f1">
+<img width="1479" alt="Capture d’écran 2024-05-19 à 22 22 29" src="https://github.com/onizukais/sybil-check/assets/170208261/ebbb999b-5d66-4e84-aac4-49794539a8ad">
+<img width="1509" alt="Capture d’écran 2024-05-19 à 22 22 41" src="https://github.com/onizukais/sybil-check/assets/170208261/14675c05-7de8-4f2e-bc9d-0a67cb4b9816">
+<img width="1497" alt="Capture d’écran 2024-05-19 à 22 22 59" src="https://github.com/onizukais/sybil-check/assets/170208261/1b535371-df82-4be1-9ca6-419b2ed07e39">
+<img width="1507" alt="Capture d’écran 2024-05-19 à 22 23 11" src="https://github.com/onizukais/sybil-check/assets/170208261/53dfaee3-8a0c-420b-b338-69d2db7eb700">
+<img width="1512" alt="Capture d’écran 2024-05-19 à 22 23 25" src="https://github.com/onizukais/sybil-check/assets/170208261/6571692d-2d0d-4caf-9503-a3762381aa3f">
+<img width="1496" alt="Capture d’écran 2024-05-19 à 22 24 41" src="https://github.com/onizukais/sybil-check/assets/170208261/58fd3334-740d-464e-af1f-26979e9a08fa">
+<img width="1501" alt="Capture d’écran 2024-05-19 à 22 24 54" src="https://github.com/onizukais/sybil-check/assets/170208261/7d9f3170-3a93-485e-b962-02ec124d550c">
 
-For example, their most recent Layer Zero interactions are the same, with the same dapps used at the same time in the same order: Merkly 18 days ago, Stargate 4 months ago, Merkly 6 months ago. The addresses also have similar ENS names.
+<img width="1508" alt="Capture d’écran 2024-05-19 à 22 25 04" src="https://github.com/onizukais/sybil-check/assets/170208261/5f156c8d-eaf7-432d-ba99-efb5a549ee3a">
+
+   
+For example, their most recent Layer Zero interactions are the same, with the same dapps used at the same time in the same order: Merkly 18 days ago, Stargate 4 months ago, Merkly 6 months ago. 
+
+We can also notice that the cluster's wallet used Stargate Arbitrum on the same date period 
+
+<img width="968" alt="Capture d’écran 2024-05-19 à 22 37 19" src="https://github.com/onizukais/sybil-check/assets/170208261/b0dab81d-5f76-4ba8-bebb-0f750b40757a">
+<img width="975" alt="Capture d’écran 2024-05-19 à 22 37 39" src="https://github.com/onizukais/sybil-check/assets/170208261/bb321113-3803-42e0-8753-d1a8ff8b5395">
+<img width="1001" alt="Capture d’écran 2024-05-19 à 22 37 56" src="https://github.com/onizukais/sybil-check/assets/170208261/397c2dc1-8314-4558-a08e-3b7967fc860d">
+<img width="973" alt="Capture d’écran 2024-05-19 à 22 38 15" src="https://github.com/onizukais/sybil-check/assets/170208261/4ed8c9a0-b46e-49ef-861b-9444acc9f09d">
+<img width="974" alt="Capture d’écran 2024-05-19 à 22 38 55" src="https://github.com/onizukais/sybil-check/assets/170208261/5193637b-ce4b-4a7a-b1ef-68343ea07c55">
+<img width="950" alt="Capture d’écran 2024-05-19 à 22 39 18" src="https://github.com/onizukais/sybil-check/assets/170208261/7ed19406-edff-4e27-9458-2ed05c5bff1c">
+<img width="963" alt="Capture d’écran 2024-05-19 à 22 42 30" src="https://github.com/onizukais/sybil-check/assets/170208261/b2eba45a-805e-4fd0-8828-0ff17db8caf3">
+<img width="943" alt="Capture d’écran 2024-05-19 à 22 42 46" src="https://github.com/onizukais/sybil-check/assets/170208261/95e3d177-d4f2-48aa-bde7-3e9803644f50">
+<img width="1002" alt="Capture d’écran 2024-05-19 à 22 43 02" src="https://github.com/onizukais/sybil-check/assets/170208261/d5ee02b7-cfce-4077-8092-6c56e1163818">
+<img width="986" alt="Capture d’écran 2024-05-19 à 22 43 19" src="https://github.com/onizukais/sybil-check/assets/170208261/f120598d-78ab-42de-9211-5b3f15749134">
+
+
 These addresses share the same CEX deposit address, are part of a cluster with multiple internal links, and exhibit the same on-chain behavior. This suggests a large-scale sybil operation, likely automated by scripts.
 
  
@@ -124,8 +153,6 @@ These addresses share the same CEX deposit address, are part of a cluster with m
 
 
  
-
-Add argu lzd et date screen tableau dune
 
 CLUSTER 51
 
@@ -167,7 +194,8 @@ The first 7 addresses of the cluster share the same Binance deposit address: 0xD
 0xca3d40c72fa7a54a400ddc081ab4440eedd69795
 
 
- 
+ ![ff](https://github.com/onizukais/sybil-check/assets/170208261/f7f4b318-e93f-4756-b48b-abb1f326e617)
+
 
 
 
@@ -184,6 +212,9 @@ These addresses exhibit the same on-chain activity.
  
 
 For example, their most recent Layer Zero interactions are the same, with the same dapps used at the same time in the same order: Maverick 9 days ago, Stargate 28 days ago, Angle 7 months ago. The addresses also have similar ENS names.
+
+
+
 These addresses share the same CEX deposit address, are part of a cluster with multiple internal links, and exhibit the same on-chain behavior. This suggests a large-scale sybil operation, likely automated by scripts.
 
 
