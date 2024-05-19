@@ -201,17 +201,29 @@ The first 7 addresses of the cluster share the same Binance deposit address: 0xD
 
 These addresses exhibit the same on-chain activity. 
 
+<img width="1512" alt="Capture d’écran 2024-05-19 à 23 22 02" src="https://github.com/onizukais/sybil-check/assets/170208261/3f923b2b-dd8a-4012-b810-cbb938c1fd2a">
+<img width="1512" alt="Capture d’écran 2024-05-19 à 23 22 16" src="https://github.com/onizukais/sybil-check/assets/170208261/94fedbb9-1ae4-431b-b51e-1da5b71d0704">
+<img width="1512" alt="Capture d’écran 2024-05-19 à 23 22 27" src="https://github.com/onizukais/sybil-check/assets/170208261/c01f0615-b86e-4af3-a90e-a751a9c804c9">
+<img width="1512" alt="Capture d’écran 2024-05-19 à 23 22 43" src="https://github.com/onizukais/sybil-check/assets/170208261/7352d07f-b59d-41cf-9785-4ed4157435b1">
+<img width="1512" alt="Capture d’écran 2024-05-19 à 23 22 56" src="https://github.com/onizukais/sybil-check/assets/170208261/e7bffb52-db08-4e28-9077-b23360ce2c67">
+<img width="1503" alt="Capture d’écran 2024-05-19 à 23 23 08" src="https://github.com/onizukais/sybil-check/assets/170208261/a9be797b-c540-4a1d-a163-a222991e56df">
+<img width="1512" alt="Capture d’écran 2024-05-19 à 23 23 21" src="https://github.com/onizukais/sybil-check/assets/170208261/ad203c4e-535d-46e0-b7e5-05de3b444791">
+<img width="1511" alt="Capture d’écran 2024-05-19 à 23 23 32" src="https://github.com/onizukais/sybil-check/assets/170208261/55844a62-e6d0-47ab-b1fd-cf8b5155d370">
+<img width="1512" alt="Capture d’écran 2024-05-19 à 23 23 44" src="https://github.com/onizukais/sybil-check/assets/170208261/d7e4ae53-6d79-4ef6-80a6-93ffa0627bf0">
+<img width="1506" alt="Capture d’écran 2024-05-19 à 23 24 03" src="https://github.com/onizukais/sybil-check/assets/170208261/fb5f4364-c325-42cb-986c-02de956823c0">
 
- 
+Their LayerZero activity is the same. For exemple, most addresses used the same. For exemple, their lastest L0 usage is the same: they used Angle during the same time period.
 
+They also used to provide to stake to the same L0 products in an effort to farm the airdrop. STG & USDC staking on Stargate OP, and USDC on Stargate Avalanche
 
- 
-
- 
-
- 
-
-For example, their most recent Layer Zero interactions are the same, with the same dapps used at the same time in the same order: Maverick 9 days ago, Stargate 28 days ago, Angle 7 months ago. The addresses also have similar ENS names.
+<img width="986" alt="Capture d’écran 2024-05-19 à 23 39 14" src="https://github.com/onizukais/sybil-check/assets/170208261/56a6e48d-5894-4ce3-b539-97e71e222813">
+<img width="1010" alt="Capture d’écran 2024-05-19 à 23 40 21" src="https://github.com/onizukais/sybil-check/assets/170208261/f3d0c402-46e8-4383-bc26-b3b7d9555c98">
+<img width="972" alt="Capture d’écran 2024-05-19 à 23 40 34" src="https://github.com/onizukais/sybil-check/assets/170208261/b42325af-5b0d-4295-9eea-712566bcaabd">
+<img width="996" alt="Capture d’écran 2024-05-19 à 23 40 48" src="https://github.com/onizukais/sybil-check/assets/170208261/c5a6e7c9-bc4a-47b7-84cb-624041ae25d1">
+<img width="1000" alt="Capture d’écran 2024-05-19 à 23 41 00" src="https://github.com/onizukais/sybil-check/assets/170208261/0d33ae01-2156-44b2-b0f8-d4a352ccf056">
+<img width="984" alt="Capture d’écran 2024-05-19 à 23 41 14" src="https://github.com/onizukais/sybil-check/assets/170208261/f5da09d1-6a7d-4c45-9444-eb37e2aabf10">
+<img width="980" alt="Capture d’écran 2024-05-19 à 23 41 28" src="https://github.com/onizukais/sybil-check/assets/170208261/f65e9e3b-d360-42d9-a66f-475febdb5525">
+<img width="1002" alt="Capture d’écran 2024-05-19 à 23 41 42" src="https://github.com/onizukais/sybil-check/assets/170208261/32a70bc5-d1bf-4b36-bda0-aad221ec1a4b">
 
 
 
@@ -220,25 +232,6 @@ These addresses share the same CEX deposit address, are part of a cluster with m
 
  
 
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Add argu lzd et date screen tableau dune
 
 
 CLUSTER 54
@@ -269,7 +262,8 @@ The first 9 addresses of the cluster share the same OKX deposit address: 0xE7d93
 0x0fa7d8f0e7e458bbb78aa2a2c6c3627433076724
 
 
- 
+ ![fff](https://github.com/onizukais/sybil-check/assets/170208261/19a54b04-c091-4905-9980-0c17d2f7f38c)
+
 
 
 
@@ -277,13 +271,29 @@ These addresses exhibit the same on-chain activity.
 
  
 
+ <img width="1512" alt="Capture d’écran 2024-05-20 à 00 07 57" src="https://github.com/onizukais/sybil-check/assets/170208261/bd3bcdab-cf0d-4a2b-89f8-3e153c0b7db6">
+<img width="1512" alt="Capture d’écran 2024-05-20 à 00 08 09" src="https://github.com/onizukais/sybil-check/assets/170208261/952c0424-bda5-4894-a824-383503a1105d">
+<img width="1512" alt="Capture d’écran 2024-05-20 à 00 08 23" src="https://github.com/onizukais/sybil-check/assets/170208261/68198d5d-982c-42ff-bcf8-eff0dbd309d6">
+<img width="1512" alt="Capture d’écran 2024-05-20 à 00 08 33" src="https://github.com/onizukais/sybil-check/assets/170208261/7b6ea0cb-2d1d-43d1-a33e-000ee0220e85">
+<img width="1512" alt="Capture d’écran 2024-05-20 à 00 08 42" src="https://github.com/onizukais/sybil-check/assets/170208261/68baf6ed-0fa8-4804-a4e7-c43b6a628dbd">
+<img width="1512" alt="Capture d’écran 2024-05-20 à 00 08 52" src="https://github.com/onizukais/sybil-check/assets/170208261/013461cd-f9f6-4834-8562-a624a22f327a">
+<img width="1512" alt="Capture d’écran 2024-05-20 à 00 09 01" src="https://github.com/onizukais/sybil-check/assets/170208261/5ed2814d-e2e1-430b-9d90-69eba00dcc48">
  
 
- 
+For example, their most recent Layer Zero interactions are the same, with the same dapps used at the same time in the same order: Stargate 7/8/9/10/11 months ago. 
 
- 
+<img width="966" alt="Capture d’écran 2024-05-20 à 00 36 05" src="https://github.com/onizukais/sybil-check/assets/170208261/e80b6211-9de9-4ddc-8daa-ef7421b85a67">
+<img width="1008" alt="Capture d’écran 2024-05-20 à 00 36 23" src="https://github.com/onizukais/sybil-check/assets/170208261/25e387b3-5671-4fcf-a688-940cce4c51c6">
+<img width="941" alt="Capture d’écran 2024-05-20 à 00 36 48" src="https://github.com/onizukais/sybil-check/assets/170208261/4a32e7c7-34ae-4ade-97e0-88fe809d3889">
+<img width="977" alt="Capture d’écran 2024-05-20 à 00 37 02" src="https://github.com/onizukais/sybil-check/assets/170208261/52ba90cd-1cc5-4544-a29b-ca56a76fe330">
+<img width="953" alt="Capture d’écran 2024-05-20 à 00 37 17" src="https://github.com/onizukais/sybil-check/assets/170208261/5ce9100c-d49f-4e49-bc98-3ea2d73fc6a6">
+<img width="950" alt="Capture d’écran 2024-05-20 à 00 37 33" src="https://github.com/onizukais/sybil-check/assets/170208261/51a89a7e-eb09-444f-9ab8-a6ec7a1c39ed">
+<img width="954" alt="Capture d’écran 2024-05-20 à 00 37 48" src="https://github.com/onizukais/sybil-check/assets/170208261/c95a8436-ce8e-4503-a2ec-8e42bca6cae0">
+<img width="936" alt="Capture d’écran 2024-05-20 à 00 38 02" src="https://github.com/onizukais/sybil-check/assets/170208261/274c783c-fb99-4095-8c13-b4ea72f1aa17">
+<img width="966" alt="Capture d’écran 2024-05-20 à 00 38 17" src="https://github.com/onizukais/sybil-check/assets/170208261/16ff2267-ceb8-4ccb-912d-5a24a6d6e663">
 
-For example, their most recent Layer Zero interactions are the same, with the same dapps used at the same time in the same order: Stargate 7 months ago. The addresses also have similar ENS names.
+All the addresses of the cluster locked similar amount of STG (around 40$ worth) in April 2023 on Stargate Arbitrum
+
 These addresses share the same CEX deposit address, are part of a cluster with multiple internal links, and exhibit the same on-chain behavior. This suggests a large-scale sybil operation, likely automated by scripts.
 
  
