@@ -35,20 +35,35 @@ Blockchain Activity Screening
 The activity predating the snapshot was screened across 14 blockchains, including:
 
 Ethereum: end block 19757726
+
 Optimism: end block 119326917
+
 BSC: end block 38236464
+
 Polygon: end block 56379454
+
 Arbitrum: end block 205653169
+
 Gnosis: end block 33677943
+
 Linea: end block 4059728
+
 Scroll: end block 5184468
+
 Zksync: end block 32656745
+
 Moonbeam: end block 6045324
+
 Moonriver: end block 6637617
+
 Fantom: end block 80127182
+
 Base: end block 13709885
+
 Celo: end block 25273962
+
 Notes on Arkham Diagrams
+
 Please be aware that links in Arkham diagrams within this report may often be missing, as Arkham only supports 7 out of these 14 blockchains.
 
 
@@ -64,6 +79,8 @@ CLUSTER 26
 
 The first 8 addresses of the cluster share the same Binance deposit address: 0x96c167D92bE4068940e8036f8CeAf91d0b6AAEF8. The remaining addresses are linked to numerous other addresses within the cluster multiple times.
 
+
+```
 0xf086748cfcdccd1efa72f8b12e50547cfe174913
 0xd4648afa05071c7e2c3e74e64b017bf0291be3a6
 0x6bb9e127e0a68f1644a873208097258157bae49d
@@ -89,6 +106,7 @@ The first 8 addresses of the cluster share the same Binance deposit address: 0x9
 0x6ae4c746a66f8d41564ecc34159e83c2ca5ea0d2
 0x2492faede662f1a23bba2a3e271d4b4a52e39a85
 0x8b39225eab9c463e0b00c61acf1d489def2ccca7
+```
 
  ![cluster1](https://github.com/onizukais/sybil-check/assets/170208261/650a0dc3-e6a5-4ad0-98a2-1d769bd0427f)
 
@@ -131,6 +149,7 @@ CLUSTER 50
 
 The first 5 addresses of the cluster share the same OKX deposit address: 0xD82b6ec56B76D5cA43D7826dce4e3d2Ff9C173DE. The remaining addresses are linked to numerous other addresses within the cluster multiple times.
 
+```
 0xb087e0033db8c075d9267e543c9e3b9f19bcc7f9
 0x2caaa9c911de5990b474eb5c7679b8662d931eb2
 0xe21b36ebede73eb8acc7e15e13407d629240cfbf
@@ -167,6 +186,7 @@ The first 5 addresses of the cluster share the same OKX deposit address: 0xD82b6
 0x76fc58dd26ed16baf40a893faef7920afd679036
 0x6fbca37a3d4933f1ec9419a4c3da5d5329cddfc2
 0x2a89216e0135be6cae98fb207cb024b96de980c3
+```
 
 ![n](https://github.com/onizukais/sybil-check/assets/170208261/295e3410-de54-49e9-b1d3-2e8e4fc53b95)
 
@@ -218,6 +238,7 @@ CLUSTER 51
 
 The first 7 addresses of the cluster share the same Binance deposit address: 0xDEa00B50ef00397c585a4A571585A3cecdCC8f5f. The remaining addresses are linked to numerous other addresses within the cluster multiple times.
 
+```
 0x80e82eabe9661b8486c87fed697c2151fdfe2bb1
 0xfcffc4bae29e75f108e2496afdfa8ac150a6985a
 0xebdd26127ae02a4e01ce45ef7df2fb4cb2749de6
@@ -252,7 +273,7 @@ The first 7 addresses of the cluster share the same Binance deposit address: 0xD
 0xf00e95842c62c938e7f4f0f21e7ce253c7011b97
 0xd445b5e58dad7a05c57fda2e3a994a4e7556837b
 0xca3d40c72fa7a54a400ddc081ab4440eedd69795
-
+```
 
  ![ff](https://github.com/onizukais/sybil-check/assets/170208261/f7f4b318-e93f-4756-b48b-abb1f326e617)
 
@@ -298,6 +319,7 @@ CLUSTER 54
 
 The first 9 addresses of the cluster share the same OKX deposit address: 0xE7d9306fbB0e6331E98D8CDf5A63D2c2D9eaA855. The remaining addresses are linked to numerous other addresses within the cluster multiple times.
 
+```
 0x7ff630219db6bc7ace11946dce8465f814f0c293
 0x8308081db7d66ff56d76d224157a1e1d545aa6d6
 0x71075f4e836670e0b6ea7f7834d6f7addd536421
@@ -320,6 +342,7 @@ The first 9 addresses of the cluster share the same OKX deposit address: 0xE7d93
 0xf0d7fce7c6e83d704c045162d19669f600b2b5a8
 0x9d0e4a7d3de79236528c76ef1f6d95141b4a4dae
 0x0fa7d8f0e7e458bbb78aa2a2c6c3627433076724
+```
 
 
  ![fff](https://github.com/onizukais/sybil-check/assets/170208261/19a54b04-c091-4905-9980-0c17d2f7f38c)
@@ -363,7 +386,7 @@ These addresses share the same CEX deposit address, are part of a cluster with m
 The first 3 addresses of the cluster share the same Binance deposit address: 0xa4Cae6744968d92216dEFcA390bb74563A9A9A2b. The remaining addresses are linked to numerous other addresses within the cluster multiple times.
 
 
-
+```
 0xfa8118fec97722451e36e84be84c37dd960a1ef2 
 0x885ac62415e534665e80ca205290a3798da91159
 0x32e9c9397e6257bce4d9e47cf7e697059f22661c
@@ -389,7 +412,7 @@ The first 3 addresses of the cluster share the same Binance deposit address: 0xa
 0x427bd8e086a204e4085c4554cfc48b2ed44e602d
 0x5712171abca3743563a4594430b4cfe123711d9e
 0xc54c577729bb114c7838fb839a74321c9d04efd1
-
+```
 
 
 ![image](https://github.com/onizukais/sybil-check/assets/170208261/be0fa467-8d4d-47a5-8d0b-ca03e71ebfae)
@@ -429,6 +452,7 @@ CLUSTER64
 
 The first 7 addresses of the cluster share the same Binance deposit address: 0xa660f0aC0184bB30DE34DF926b8A925226Ec0348. The remaining addresses are linked to numerous other addresses within the cluster multiple times.
 
+```
 0x0df415736be40485c5016f21eeb373fb326a7847
 0x126c278e6e446aab2c85f0ce0702e315fc03ea2a
 0x033f35a020fbdaa7108bd8e509fd50a88a9915de
@@ -450,7 +474,7 @@ The first 7 addresses of the cluster share the same Binance deposit address: 0xa
 0xb182d472fbfc8195cf325dc1a8545a90ee92f5f7
 0x9277dd7dcb96b91e1711096e86ba84a9ba28f40a
 0x011e2c14c24fdac66a77802061d8ea26814e5154
-
+```
 
 ![image](https://github.com/onizukais/sybil-check/assets/170208261/f43ba262-4cc8-4831-979e-16200fe44602)
 
@@ -486,7 +510,7 @@ The first 9 addresses of the cluster share the same OKX deposit address: 0xc0df0
 
 
 
-
+```
 0x2b30a4330f325412fa95b47b95b08c23ae6f5ac3
 0x75fe6eacc70f8849343f50e7456ae30f8916049d
 0xb89d39dca076c6db5e32f8baca14be07b7587081
@@ -508,7 +532,7 @@ The first 9 addresses of the cluster share the same OKX deposit address: 0xc0df0
 0xab23618dd560fc4e63d0d55cc3d1e0f562cc0be7
 0x2297201990f7d27c27731cffa36602fabc2d1c42
 0x378264946dffc32049855ecaf1f77516ee6d94a7
-
+```
 
 
 
@@ -537,7 +561,7 @@ The first 8 addresses of the cluster share the same Binance deposit address: 0x2
 
 
 
-
+```
 0x8af9d879d81598ba375becd38070efdaac447fa9
 0x2560d358b94794c5f0ab0a61cd2e68a758bee7c3
 0xbcf6ddc21f32602f77c41cf988e2b8632c10c607
@@ -560,7 +584,7 @@ The first 8 addresses of the cluster share the same Binance deposit address: 0x2
 0x4d5a5b375f6adfade95d7b78a7920017439549eb
 0xf158269e837a3c8f6463ee366c437b524ee1e62b
 0x5f242d5d468ed69341a2b14c6f0c22a2f3c03f3b
-
+```
 
 
 ![image](https://github.com/onizukais/sybil-check/assets/170208261/39110095-4756-4577-987b-4a763da6c0ff)
@@ -609,7 +633,7 @@ The first 8 addresses of the cluster share the same Binance deposit address: 0x2
 
 
 
-
+```
 0xf4485a311080369cfc22a1c8d90141355374f3a5
 0x0d8141fe30928e85f50e8fbc0acec2595538963b
 0x0283d8ca73f07c57937980428fcb7596350bd68a
@@ -636,7 +660,7 @@ The first 8 addresses of the cluster share the same Binance deposit address: 0x2
 0xa2ab59f0fcb3d280bd89fe472f573b0e403dcab5
 0x81087a9d507fd0e9cf92877f6a3143a4920a9b20
 0xf85b00d368643b2fbc8b0c3f55f2de7a00437c10
-
+```
 
 ![image](https://github.com/onizukais/sybil-check/assets/170208261/b8e65238-63c6-4fb7-903a-4b755ccb5856)
 
@@ -681,7 +705,7 @@ CLUSTER119
 The first 8 addresses of the cluster share the same OKX deposit address: 0x40Cee519D40f47BA6f0c57bEE874377BFe366eBA. The remaining addresses are linked to numerous other addresses within the cluster multiple times.
 
 
-
+```
 0xf6b2c339304b4e3f37a73b5e0caba126958ac46e
 0x94bf9b83d417b876ae929323d803b67c2a30102c
 0x388b165eccf64abac50043280517a905e5f93c7d
@@ -721,7 +745,7 @@ The first 8 addresses of the cluster share the same OKX deposit address: 0x40Cee
 0x415b0d6545690c9a06e9b461e3cf1d699826a9e7
 0x1b5b5f524af8978fc67bfc2fbb8ad94e51e7e9e5
 0x7c1653afa616d317035b7e25b67e57e31085c218
-
+```
 
 
 
@@ -759,7 +783,7 @@ CLUSTER126
 
 The first 14 addresses of the cluster share the same Binance deposit address: 0x553dCEe501865C6dE9d4d7A3A3011661352006fB. The remaining addresses are linked to numerous other addresses within the cluster multiple times.
 
-
+```
 0xbe1122908803a1a52ab6c6ba1774398249ae93ca
 0xe590fa9cbd5fdd8cec05b306d3223418b9c0c246
 0xfdd0986b799d135d16a128bcb5ff7da1cee058b2
@@ -802,7 +826,7 @@ The first 14 addresses of the cluster share the same Binance deposit address: 0x
 0xb497ab001dd168fcdfe6e840ffb5928db7eb8f4d
 0x670db67da8b197e07006b377950518dbf1b0e59b
 0x64d15838038f97d40cd39a6dcbcced03ec58be5f
-
+```
 
 
 ![image](https://github.com/onizukais/sybil-check/assets/170208261/1de57c24-5511-4af3-a3e6-44436438532c)
