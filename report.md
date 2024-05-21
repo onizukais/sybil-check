@@ -1,27 +1,37 @@
 
 
 Independent Clusters
+
+
 It is important to understand that each cluster in this report is independent, with its own description and argumentation. While creating a separate issue for each cluster would be ideal, it is not feasible as it would result in my account being flagged for spam on GitHub. Therefore, please evaluate each cluster independently and pardon any changes necessitated by the report's size.
 
 Detailed Methodology and Walkthrough
+
+
 Data Collection
+
 To gather data, I utilized explorers to compile as many CEX (Centralized Exchange) hot wallets (from Binance, Coinbase, Kucoin, Bybit, OKX) and gas suppliers as possible. A simple SQL query on Dune was then used to collect approximately 2.5 million CEX deposit addresses (addresses where users send assets to deposit into a CEX).
 
 Initial Filtering
+
 Using the Dune Dashboard, I filtered these CEX deposit addresses to identify those that had received funds from at least seven addresses interacting regularly with Layer Zero. Clusters of active L0 addresses, ranging from 7 to 300, sharing the same CEX deposit address, were identified and used to form larger clusters. This was done by incorporating addresses that interacted with cluster addresses but not directly with the CEX deposit address. To minimize false positives, an address had to be directly linked to at least four other cluster addresses to be included. Clusters with fewer than 20 addresses (including the CEX deposit address) were discarded.
 
 Detection and Proof - Layer One
+
 The first detection layer involves automated scripts that group addresses sharing the same CEX deposit address and being linked to at least four other addresses within the cluster. Despite its automation, this layer still has a percentage of false positives due to multiple interactions and the common CEX deposit address.
 
 Detection and Proof - Layer Two
+
 The second detection layer involves manual verification. Each address within a cluster was manually scanned to remove false positives and add on-chain arguments to the cluster description. These arguments varied, including the execution of the same transactions at the same time with the same amounts and similar transaction patterns for L0 activities. Multiple resources, such as LayerZero Scan, Dune, Debank, Arkham, and Etherscan, were utilized for this purpose.
 
 Although this manual process is time-consuming, it ensures the sybil nature of the clusters and minimizes false positives. It also demonstrates that substantial work has been done, rather than merely providing a large list of addresses.
 
 Combining Layers for Accurate Detection
+
 By combining both detection layers, we achieve reliable detection with minimal false positives. The clusters' use of the same CEX deposit address and manually reported on-chain activities significantly enhance the accuracy of the results.
 
 Blockchain Activity Screening
+
 The activity predating the snapshot was screened across 14 blockchains, including:
 
 Ethereum: end block 19757726
@@ -40,6 +50,7 @@ Base: end block 13709885
 Celo: end block 25273962
 Notes on Arkham Diagrams
 Please be aware that links in Arkham diagrams within this report may often be missing, as Arkham only supports 7 out of these 14 blockchains.
+
 
 Reward Address (If Eligible)
 
