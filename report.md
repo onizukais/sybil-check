@@ -956,7 +956,7 @@ The first 7 addresses of the cluster share the same Binance deposit address: 0x7
 0x33367d072d33d9653874b545f7da707527b1a3c0
 0xc8930433a67e6cbeeeb699c5e02055ea832d39d2
 0x38455642dc72a11f4645ded27353bc97a5054192
-
+```
 
 ![image](https://github.com/onizukais/sybil-check/assets/170208261/b029945f-f10c-41c7-982f-784f28b84210)
 
