@@ -1034,22 +1034,62 @@ CLUSTER200
 The first 9 addresses of the cluster share the same OKX deposit address: 0x06897581C555C3746ad4E64ceb4155e31C779E45. The remaining addresses are linked to numerous other addresses within the cluster multiple times.
 
 ```
-0x50c1430c0c8bebaa2bcbc617106bff63bd7a9a76 0x45b0c219918c42f0ca946bdb91b517275a8c9cca 0x8d8979ba8c18e0591f08cdefa54980a13b71df1b 0xf3f4ee03357483b3b41a1d58b32dc1f57bd29c10 0xd19c0896e7e956e8877d8925e1cf6eebf1f0be41 0x7c48825e342b2017cbd964283a8d1072c8dcf7ae 0xb339297171670de477002e1e3bd429b87d2da263
-0xe895909b9cc3000ae3e6008ede594b9f7f0f870b 0x2caaa9c911de5990b474eb5c7679b8662d931eb2 0x2d232c211c80c8ce716b884b8fcd784bb55e6053 0xad8a954fab2e71f3865a8272c4042e10d83e3d5f 0xf59a93cf770eb6e2b4344387ce835c58ff8b363d 0x8cb50b46e0708dc0b2b34e6077b876eb95a057af 0x4f2dc64360ebbe78c968338ed4baae1d14144340 0x50270d3eea45820a33e7b57072e49c37f0fbf40e 0xfc03f894465e2b43be15a56918c4e298e2ee4be5 0xe2709b901d6ea39ffca044679b4e268f65c68661 0x532915251c7dc45fca323a76e7726cb77b2316e6 0xd12c62dea4f5c705b38f4b034c3561ca65be71d5 0x6fbca37a3d4933f1ec9419a4c3da5d5329cddfc2 0x6a643bcc171e12448aa4202db2bfd4b008108a5a 0xe21b36ebede73eb8acc7e15e13407d629240cfbf 0x68db90264b5f95032110965e2b4ca7353d67f9f5
-0xf3b5f18add21b6578e679d0de8ac7597d0095b73 0xbb3a0ceeea78fc630ea6ac4c97eecd106aefa16e 0xfd0041184f9387a822216be34da1f4893ea7b426 0x227fbcb2931d501a31f29b1a356e12f71c6deb8d 0x9aa1575e60d33cd8e750f3193bdfa7d5540fe136 0x76fc58dd26ed16baf40a893faef7920afd679036 0x0b61e8ce1efc73078db28b8dc9ae6e635efe67dd 0xa050e41f634170149c3b151729260df037a0f946
-0xfb0cebff8dc1bd2b5538a6cea756477a3cbc3e4c 0xf45be6d4b50431cb7787075ec5b1b9b957aa19ba 0xe44717f479e36b428d105f9594c1e1e33c3003cb 0x2a89216e0135be6cae98fb207cb024b96de980c3 0x0941f8f756e890b2d81f7f16970a872ce0ae4001 0xc6cbb0774096f5309dcea918b30b32e194cbebc1 0xac0ad531c8570d87eb30e47fc9307f48304fa0d7 0xdb520b6769df9df5911e5969d570ea12850dac69 0xe0735dc521947f398d26184df05ca3803474eefd 0xa0aa179edad782f0dd3e71847379e3a3707041ff 0x897aaceb5620805a04b561c076ca49667d663238
-0xa69bde39bafa75534befd12a5f36ec8f95248009 0x5c411a8ffc9965d7364d8edf29ab4a14aae3cb31 0x1d639c172c474d56ef85dae0431295466734c197
+0x50c1430c0c8bebaa2bcbc617106bff63bd7a9a76
+0x45b0c219918c42f0ca946bdb91b517275a8c9cca
+0x8d8979ba8c18e0591f08cdefa54980a13b71df1b
+0xf3f4ee03357483b3b41a1d58b32dc1f57bd29c10
+0xd19c0896e7e956e8877d8925e1cf6eebf1f0be41
+ 0x7c48825e342b2017cbd964283a8d1072c8dcf7ae
+ 0xb339297171670de477002e1e3bd429b87d2da263
+0xe895909b9cc3000ae3e6008ede594b9f7f0f870b
+ 0x2caaa9c911de5990b474eb5c7679b8662d931eb2
+ 0x2d232c211c80c8ce716b884b8fcd784bb55e6053
+ 0xad8a954fab2e71f3865a8272c4042e10d83e3d5f
+ 0xf59a93cf770eb6e2b4344387ce835c58ff8b363d
+ 0x8cb50b46e0708dc0b2b34e6077b876eb95a057af
+ 0x4f2dc64360ebbe78c968338ed4baae1d14144340
+ 0x50270d3eea45820a33e7b57072e49c37f0fbf40e
+ 0xfc03f894465e2b43be15a56918c4e298e2ee4be5
+ 0xe2709b901d6ea39ffca044679b4e268f65c68661
+ 0x532915251c7dc45fca323a76e7726cb77b2316e6
+ 0xd12c62dea4f5c705b38f4b034c3561ca65be71d5
+ 0x6fbca37a3d4933f1ec9419a4c3da5d5329cddfc2
+0x6a643bcc171e12448aa4202db2bfd4b008108a5a
+0xe21b36ebede73eb8acc7e15e13407d629240cfbf
+0x68db90264b5f95032110965e2b4ca7353d67f9f5
+0xf3b5f18add21b6578e679d0de8ac7597d0095b73
+0xbb3a0ceeea78fc630ea6ac4c97eecd106aefa16e
+0xfd0041184f9387a822216be34da1f4893ea7b426
+0x227fbcb2931d501a31f29b1a356e12f71c6deb8d
+0x9aa1575e60d33cd8e750f3193bdfa7d5540fe136
+0x76fc58dd26ed16baf40a893faef7920afd679036
+0x0b61e8ce1efc73078db28b8dc9ae6e635efe67dd
+0xa050e41f634170149c3b151729260df037a0f946
+0xfb0cebff8dc1bd2b5538a6cea756477a3cbc3e4c
+0xf45be6d4b50431cb7787075ec5b1b9b957aa19ba
+0xe44717f479e36b428d105f9594c1e1e33c3003cb
+0x2a89216e0135be6cae98fb207cb024b96de980c3
+0x0941f8f756e890b2d81f7f16970a872ce0ae4001
+0xc6cbb0774096f5309dcea918b30b32e194cbebc1
+0xac0ad531c8570d87eb30e47fc9307f48304fa0d7
+0xdb520b6769df9df5911e5969d570ea12850dac69
+0xe0735dc521947f398d26184df05ca3803474eefd
+0xa0aa179edad782f0dd3e71847379e3a3707041ff
+0x897aaceb5620805a04b561c076ca49667d663238
+0xa69bde39bafa75534befd12a5f36ec8f95248009
+0x5c411a8ffc9965d7364d8edf29ab4a14aae3cb31
+0x1d639c172c474d56ef85dae0431295466734c197
 ```
 
+<img width="240" alt="image" src="https://github.com/onizukais/sybil-check/assets/170208261/27d06c04-88cd-4464-bb15-eb781edb49f6">
 
-![image](https://github.com/onizukais/sybil-check/assets/170208261/63f260d3-ba30-45df-b1de-b981655352b9)
 
 The addresses have the same on-chain activity. Their L0 interaction are the exact same, the same DAPPS in the same order in the same timespan. For example, their latest L0 interaction all are the same, and follow the exact same pattern : Stargate 4 months ago, Stargate 6 months ago and Merkly 8 months ago. This is the result of a script.
 
-<img width="353" alt="image" src="https://github.com/onizukais/sybil-check/assets/170208261/da68e259-c311-420c-9f51-6a6831531735">
+<img width="368" alt="image" src="https://github.com/onizukais/sybil-check/assets/170208261/da68e259-c311-420c-9f51-6a6831531735">
 <img width="368" alt="image" src="https://github.com/onizukais/sybil-check/assets/170208261/79f56597-6d02-4628-a986-65507576d9d8">
-<img width="344" alt="image" src="https://github.com/onizukais/sybil-check/assets/170208261/795cd6fd-615e-48a3-80b8-7cad10ecd15a">
-<img width="359" alt="image" src="https://github.com/onizukais/sybil-check/assets/170208261/23366008-04ad-4d27-927b-0768f6297c9f">
+<img width="368" alt="image" src="https://github.com/onizukais/sybil-check/assets/170208261/795cd6fd-615e-48a3-80b8-7cad10ecd15a">
+<img width="368" alt="image" src="https://github.com/onizukais/sybil-check/assets/170208261/23366008-04ad-4d27-927b-0768f6297c9f">
 
 
 These addresses share the same CEX deposit address, are part of a cluster with multiple internal links, and exhibit the same on-chain behavior. This suggests a large-scale sybil operation, likely automated by scripts. 
@@ -1068,7 +1108,8 @@ The first 20 addresses of the cluster share the same Binance deposit address: 0x
 ```
 
 
-![image](https://github.com/onizukais/sybil-check/assets/170208261/74015939-b8b7-404a-b262-c9b67204c53c)
+<img width="209" alt="image" src="https://github.com/onizukais/sybil-check/assets/170208261/75984e99-0280-4764-b895-fe2ecd44a193">
+
 
 The addresses have the same on-chain activity. Their L0 interaction are the exact same, the same DAPPS in the same order in the same timespan. For example, their latest L0 interaction all are the same, and follow the exact same pattern : WOOFi 1 month ago, Stargate 3 months ago and WOOFi 7 months ago. This is the result of a script.
 
@@ -1095,7 +1136,8 @@ The first 11 addresses of the cluster share the same Binance deposit address: 0x
 0xa08b0febac3e7f34af697bd30fccc4f2dacdfb43
 ```
 
-![image](https://github.com/onizukais/sybil-check/assets/170208261/1a80a813-36c4-479c-ae67-afb5cd883ad1)
+<img width="203" alt="image" src="https://github.com/onizukais/sybil-check/assets/170208261/88a99d73-06e1-4bf6-bb7c-fd2bb551c47f">
+
 
 
 The addresses have the same on-chain activity. Their L0 interaction are the exact same, the same DAPPS in the same order in the same timespan. For example, their latest L0 interaction all are the same, and follow the exact same pattern : Stargate 8 months ago, Stargate 9 months ago and Stargate 10 months ago. This is the result of a script.
@@ -1116,7 +1158,8 @@ The first 9 addresses of the cluster share the same OKX deposit address: 0x7Ba97
 ```
 0x8d52d8e2791ce7b942de48be7b35628b8c249d65 0xbd3b9ef63c79d0dc206aeb1feba35e68c7dd16b9 0xe9ff81d9c90a15e40a53e458a36bc701c9f80592 0x5015646e9be3bf88e0ddff05c3d494ae5da589fa 0xca33c9351674ae7db448fb15626782e53bf21a93 0x2239978c3e75ec0784f7f69356bd8235d0a7cbe5 0x95815b4d8a53b02b37f9c21b8dddad349a87669f 0x973e848eec772e3f7bb3d36091775b275b23ac25 0x06abef993c9674b6c69f87316e36d58d67d32d31 0x78c413fb2745f07ead4b0c20bcf7f2945ed94515 0x1e06c650bba984039f6e2a55b7f8fc816cc9920b 0x193f24bb16d4051938f3586bcae7532a7dcb0e25 0xd91e3059b2201574060d2877079aec9cfeeee0e4 0x8daf4f49749601f20978c4821bfa5e4038a6bd57 0x3fc0672d46ccaf0f8d485500ec049de17d7bf876 0xbaca7fb21dc628212f556f9e473b80aadac91b8e 0x148cf92066f1d9502914ff001c3aaf828db61238 0xd336713a56624b67d562376eba38105d27d8eff3 0xaa6293a662f7797b8a52335b1bee15a308d89da0 0xdf7b565ba908584a8967fc9aa43c79662bf0a213 0x5975d8155b3f0c0e9d2167a2fa362d2fbcc889df 0xc4775d714038ad50692bb29b95e44243bcc0f411 0xf0dfc87d290ef093354b9203f9493c70d17ea784 0xb73ff0c92b9e91a832482b5271b79afc649cc68e
 ```
-<img width="275" alt="image" src="https://github.com/onizukais/sybil-check/assets/170208261/161b5214-d0c2-4f6c-9a98-1b9acd78059d">
+<img width="275" alt="image" src="https://github.com/onizukais/sybil-check/assets/170208261/beee992c-a72e-4b08-ad7f-f888d4b9a1a3">
+
 
 
 The addresses have the same on-chain activity. Their L0 interaction are the exact same, the same DAPPS in the same order in the same timespan. For example, their latest L0 interaction all are the same, and follow the exact same pattern : Stargate 2 months ago, Omni X 4 months ago, Omni X 6 months ago and Stargate 7 months ago. This is the result of a script
@@ -1143,7 +1186,7 @@ The first 10 addresses of the cluster share the same OKX deposit address: 0x8056
 0x7ac7ee6da0ff7c21643755d1dd9451e54b21d6d6 0x823b61a564d28e76896ac6b3c5e9b0ca8706fcdf 0xa08fd3d3949bc63534f7ec887c80595e845c167e 0x52b519edf17310fb0ca7e9d82a2762b3f6b5a4a4
 ```
 
-![image](https://github.com/onizukais/sybil-check/assets/170208261/33a1e59f-5b74-4475-808d-2562ccc5141d)
+<img width="213" alt="image" src="https://github.com/onizukais/sybil-check/assets/170208261/c7297299-a624-480e-9c2c-7e1a328f1e1d">
 
 
 The addresses have the same on-chain activity. Their L0 interaction are the exact same, the same DAPPS in the same order in the same timespan. For example, their latest L0 interaction all are the same, and follow the exact same pattern : Stargate 1 month ago, Stargate 6 months ago, Testnet 11 months ago and Stargate 1 year ago. This is the result of a script.
@@ -1176,7 +1219,8 @@ The first 8 addresses of the cluster share the same Binance deposit address: 0x8
 0x09aa3fd1996a81973e86463f63c175103e8c840e
 ```
 
-![image](https://github.com/onizukais/sybil-check/assets/170208261/5dfbb310-4221-4f7e-b171-5c2c8051c080)
+<img width="213" alt="image" src="https://github.com/onizukais/sybil-check/assets/170208261/261e6f1f-399b-40d5-ae4b-dac58423ab3c">
+
 
 
 The addresses have the same on-chain activity. Their L0 interaction are the exact same, the same DAPPS in the same order in the same timespan. For example, their latest L0 interaction all are the same, and follow the exact same pattern : Merkly 4 months ago, Merkly 6 months ago, Merkly 9 months ago and Merkly 10 months ago. This is the result of a script.
