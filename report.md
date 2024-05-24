@@ -2,6 +2,7 @@
 
 Independent Clusters
 
+This report has been inspired by the one shared by Bryan, I've used this one as a model but absolutely all the clusters and addys are differents.
 
 It is important to understand that each cluster in this report is independent, with its own description and argumentation. While creating a separate issue for each cluster would be ideal, it is not feasible as it would result in my account being flagged for spam on GitHub. Therefore, please evaluate each cluster independently and pardon any changes necessitated by the report's size.
 
