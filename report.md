@@ -1,4 +1,3 @@
-![image](https://github.com/onizukais/sybil-check/assets/170208261/9ca33270-5718-42b8-88b5-93035e7bcac4)
 
 Independent Clusters
 
