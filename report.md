@@ -200,6 +200,8 @@ These addresses of the cluster share the same OKX deposit address: 0x0FC746381B0
  0x700a376367bd0d979d7cd46872d1c6e1de25f6ce 
 ```
 
+![image](https://github.com/onizukais/sybil-check/assets/170208261/4f333559-2eaa-4a13-89a6-dcaf65cbaf14)
+
 
 The addresses have the exact same on-chain activity. For all used the ZkSync native bridge in an effort to farm the airdrop, in a 1 month timespan, with similar amounts and with the exact same gas limit amount, which cannot be done except with a script.
 
@@ -509,38 +511,25 @@ CLUSTER 51
 The first 7 addresses of the cluster share the same Binance deposit address: 0xDEa00B50ef00397c585a4A571585A3cecdCC8f5f. The remaining addresses are linked to numerous other addresses within the cluster multiple times.
 
 ```
-0x80e82eabe9661b8486c87fed697c2151fdfe2bb1
 0xfcffc4bae29e75f108e2496afdfa8ac150a6985a
-0xebdd26127ae02a4e01ce45ef7df2fb4cb2749de6
 0xf3ff1be41319aa44a759fc59d7be1be3c8b34bd5
 0xcae03f27fbefef8d209b4424fae8aa9012079170
 0x8d8c74bef923b63c393ae4b7bbf249442ce0fd59
-0x20a9e5517c5c9a464da5a0750d2b5d381f373ebc
 0x68ee33a5491259acb20a280f74b6858315f8bae1
 0xb519d7664d1b862bb8f118d138bd43123c7b4b07
 0x034fed0e84e250cccf5dc21a14511b212a54bddb
-0x8e2da4a20777a22b2c6c4f159ea265a4b15fefdd
 0x387f49fdae110c14c3503e4cc2e72d9ab8f4dab9
 0x6891e9536f1fb44a7f6bcfa4d910b95147d137e0
 0x0c0ce68d7bd507f5ffe4fbff00b5476d2477ff11
 0x62b285bf4e04077da564cd4ba999a605668c6c8e
-0x2be4644510db08a8c885e36e524dfa3b2d363d3c
 0x2e645e4ee4609dc5e2e3c090cf61bf40e910139c
 0x2761d36894600153c5e5e780a059eecbdda66679
 0x09bc739bfa9f0a101f5f92a0f16ffc729b97211a
-0x7966f650354e716c165381f2cad5d63cef665d31
-0xb939db6e80aab2ef86299fc8a20a1c93d03fb0dd
 0x7df50c90e392e05736db7f047b50d2f422a062f7
-0x750f0efc0a9cce35ba61f23a7dcb678a1b1442b3
-0xab81bde2361c9a2564603da7d0315c967aff7ee1
-0xae65e17160178833be9c263599486e430dbed510
 0xe464168a2318f326d396c67c2549bf54c2749566
 0x23db79360ede7fa797d44bfc860f78114a9a67cc
-0xed0abfa70b9b9b0d148422584aab8bb48590eeea
-0xae20a0eb750bc707ec56e0a48537548a544014c1
 0xa7c9e4463043f73af8819dc224104216c4969790
 0x592a77f3b94244addfe497ca96769f93e07433df
-0xf00e95842c62c938e7f4f0f21e7ce253c7011b97
 0xd445b5e58dad7a05c57fda2e3a994a4e7556837b
 0xca3d40c72fa7a54a400ddc081ab4440eedd69795
 ```
@@ -565,17 +554,17 @@ These addresses exhibit the same on-chain activity.
 
 Their LayerZero activity is the same. For exemple, most addresses used the same. For exemple, their lastest L0 usage is the same: they used Angle during the same time period.
 
-They also used to provide to stake to the same L0 products in an effort to farm the airdrop. STG & USDC staking on Stargate OP, and USDC on Stargate Avalanche
+They also used ZkSync to make the same transaction on the same date range.
 
-<img width="986" alt="Capture d’écran 2024-05-19 à 23 39 14" src="https://github.com/onizukais/sybil-check/assets/170208261/56a6e48d-5894-4ce3-b539-97e71e222813">
-<img width="1010" alt="Capture d’écran 2024-05-19 à 23 40 21" src="https://github.com/onizukais/sybil-check/assets/170208261/f3d0c402-46e8-4383-bc26-b3b7d9555c98">
-<img width="972" alt="Capture d’écran 2024-05-19 à 23 40 34" src="https://github.com/onizukais/sybil-check/assets/170208261/b42325af-5b0d-4295-9eea-712566bcaabd">
-<img width="996" alt="Capture d’écran 2024-05-19 à 23 40 48" src="https://github.com/onizukais/sybil-check/assets/170208261/c5a6e7c9-bc4a-47b7-84cb-624041ae25d1">
-<img width="1000" alt="Capture d’écran 2024-05-19 à 23 41 00" src="https://github.com/onizukais/sybil-check/assets/170208261/0d33ae01-2156-44b2-b0f8-d4a352ccf056">
-<img width="984" alt="Capture d’écran 2024-05-19 à 23 41 14" src="https://github.com/onizukais/sybil-check/assets/170208261/f5da09d1-6a7d-4c45-9444-eb37e2aabf10">
-<img width="980" alt="Capture d’écran 2024-05-19 à 23 41 28" src="https://github.com/onizukais/sybil-check/assets/170208261/f65e9e3b-d360-42d9-a66f-475febdb5525">
-<img width="1002" alt="Capture d’écran 2024-05-19 à 23 41 42" src="https://github.com/onizukais/sybil-check/assets/170208261/32a70bc5-d1bf-4b36-bda0-aad221ec1a4b">
-
+![ScreenShot Tool -20240527150046](https://github.com/onizukais/sybil-check/assets/170208261/409d773c-2a97-4930-9817-78847e55b524)
+![ScreenShot Tool -20240527150053](https://github.com/onizukais/sybil-check/assets/170208261/e139e015-70af-4f6a-9fbe-79beede74d36)
+![ScreenShot Tool -20240527150109](https://github.com/onizukais/sybil-check/assets/170208261/7b0c658a-d83c-41d3-b6a3-617eeeda84d8)
+![ScreenShot Tool -20240527150114](https://github.com/onizukais/sybil-check/assets/170208261/07197b36-ec43-47d0-9dfc-e433db4671cb)
+![ScreenShot Tool -20240527150132](https://github.com/onizukais/sybil-check/assets/170208261/df35b65a-5092-4c10-9a05-68436af27c4c)
+![ScreenShot Tool -20240527150137](https://github.com/onizukais/sybil-check/assets/170208261/899676ee-c557-4cd9-8ac9-919b4092aacb)
+![ScreenShot Tool -20240527150140](https://github.com/onizukais/sybil-check/assets/170208261/7e2d70a4-3eb9-44c9-99ea-796266b8aed4)
+![ScreenShot Tool -20240527150143](https://github.com/onizukais/sybil-check/assets/170208261/31b06e1e-ad2a-4ee3-911e-32310ac4b9f7)
+![ScreenShot Tool -20240527150148](https://github.com/onizukais/sybil-check/assets/170208261/fb1c8263-617f-4364-ba3c-512f0c6133e7)
 
 
 These addresses share the same CEX deposit address, are part of a cluster with multiple internal links, and exhibit the same on-chain behavior. This suggests a large-scale sybil operation, likely automated by scripts.
@@ -596,18 +585,14 @@ The first 9 addresses of the cluster share the same OKX deposit address: 0xE7d93
 0xa9a4e3a351ace513e9ac3d0df3f9146220bca9ef
 0x64ad047d7e1d1077525e7396093e640c159de52c
 0xf39a557a1fdb4fd1d03b291259d9f4fa585f9c8c
-0xd65b4226a3d72a11297dc332603705b0792d0764
 0x3f9d1a094deb889aa46d9aedc5f6a101d92a24ab
 0x437130539bcf3155a9f1614e9789697845b83516
 0x1adf17f665fbf879c75767ecc87f938abc776682
 0x3a5688ba86331c4668fef062ccf4bfd6ad2a0d5d
 0x18e6293edf7b32830e7d3452e7ccda0029788a90
 0xcb547ec878d93cfefd4be94abe0da9b576f81d85
-0x758091a94b7904d982ee5b6d85bae5ae4afde404
-0xd81bd5ca852f1caf838795fa0669eb761bfeba71
 0xd3047e64519d9826918a6ca997fd9171eddaa0f4
 0x10435d35d76a227c67a54342796f707af9571db9
-0x609f5678ca2b10aa12e1f7153a39d099b0e7ecc0
 0xe5b457317c42e2cf7173c33fc85188fccf75e926
 0xf0d7fce7c6e83d704c045162d19669f600b2b5a8
 0x9d0e4a7d3de79236528c76ef1f6d95141b4a4dae
@@ -706,15 +691,17 @@ For example, their most recent Layer Zero interactions are the same, with the sa
 
 
 
-All the addresses of the cluster locked similar amount of STG (around 55$ worth) in April 2024 on Stargate Avalanche
+All the addresses of the cluster locked similar amount of STG (around 55$ worth) on 10/29/2022 and 11/01/2022 on Stargate Bsc
 
-![ScreenShot Tool -20240520162614](https://github.com/onizukais/sybil-check/assets/170208261/d568d467-6ccc-4f6a-9dc6-7140aad59fd3)
-![ScreenShot Tool -20240520162657](https://github.com/onizukais/sybil-check/assets/170208261/a0c2eee9-3f6c-4644-bf75-61290e078a4b)
-![ScreenShot Tool -20240520162708](https://github.com/onizukais/sybil-check/assets/170208261/66e7ac79-b422-4a57-a38c-7b4c23648f2c)
-![ScreenShot Tool -20240520162724](https://github.com/onizukais/sybil-check/assets/170208261/97c14c03-ef7c-4994-a621-6cab1c682d13)
-![ScreenShot Tool -20240520162739](https://github.com/onizukais/sybil-check/assets/170208261/10737571-af5b-45d8-b021-7c32e0d5b2bd)
-![ScreenShot Tool -20240520162753](https://github.com/onizukais/sybil-check/assets/170208261/eecd15fc-7007-4753-b549-1b89034e727a)
-<img width="1041" alt="Capture d’écran 2024-05-20 à 16 25 14" src="https://github.com/onizukais/sybil-check/assets/170208261/94fcd697-fd1b-43a4-bd37-b6ccb7471b13">
+![ScreenShot Tool -20240527153535](https://github.com/onizukais/sybil-check/assets/170208261/c15a6fc4-1b0a-4a07-bfa7-21de44d587fb)
+![ScreenShot Tool -20240527153544](https://github.com/onizukais/sybil-check/assets/170208261/1671e295-63f8-48fe-a025-f3e9d08ef762)
+![ScreenShot Tool -20240527153555](https://github.com/onizukais/sybil-check/assets/170208261/8227b260-d29e-447d-961d-9d5a08b8d2e9)
+![ScreenShot Tool -20240527153606](https://github.com/onizukais/sybil-check/assets/170208261/caf66fd4-1be3-4732-b465-e0118d913cdb)
+![ScreenShot Tool -20240527153619](https://github.com/onizukais/sybil-check/assets/170208261/b9a69eed-f506-42f6-a906-3006ddd187a3)
+![ScreenShot Tool -20240527153627](https://github.com/onizukais/sybil-check/assets/170208261/7d93ff88-e3b6-44e7-b63b-50f1b299c184)
+![ScreenShot Tool -20240527153636](https://github.com/onizukais/sybil-check/assets/170208261/e4e3a698-3371-46e2-85d5-bcba7670fa6a)
+![ScreenShot Tool -20240527153651](https://github.com/onizukais/sybil-check/assets/170208261/7c37eee2-d570-4102-96f2-9fa6aa267bf9)
+
 
 These addresses share the same CEX deposit address, are part of a cluster with multiple internal links, and exhibit the same on-chain behavior. This suggests a large-scale sybil operation, likely automated by scripts.
 
@@ -771,9 +758,6 @@ These addresses share the same CEX deposit address, are part of a cluster with m
 
 
 
-
-
-
 CLUSTER71
 
 The first 9 addresses of the cluster share the same OKX deposit address: 0xc0df049ae853686B06D7bF96d0977bd1D249BA6b. The remaining addresses are linked to numerous other addresses within the cluster multiple times.
@@ -821,6 +805,19 @@ For example, their most recent Layer Zero interactions are the same, with the sa
 ![ScreenShot Tool -20240520182616](https://github.com/onizukais/sybil-check/assets/170208261/2acd04fc-3776-489b-8f03-0fb016b23b4a)
 ![ScreenShot Tool -20240520182620](https://github.com/onizukais/sybil-check/assets/170208261/c5fa93b0-5dd3-4ded-a1f9-28f543739108)
 
+All the addresses of the cluster have made a bridge transaction on Starknet, on the same date.
+
+![ScreenShot Tool -20240527160514](https://github.com/onizukais/sybil-check/assets/170208261/8b476fa7-5c0e-4883-adb6-213870f1cbbf)
+![ScreenShot Tool -20240527160522](https://github.com/onizukais/sybil-check/assets/170208261/a7a81021-aa28-432d-8883-515ff58e7898)
+![ScreenShot Tool -20240527160525](https://github.com/onizukais/sybil-check/assets/170208261/e26fac11-5f3f-4b2d-be55-9ef7d7c529d0)
+![ScreenShot Tool -20240527160534](https://github.com/onizukais/sybil-check/assets/170208261/b5e66047-f6b4-4db9-a54f-5425c14e72d3)
+![ScreenShot Tool -20240527160538](https://github.com/onizukais/sybil-check/assets/170208261/855577ad-85c6-4c06-8986-644b9963026f)
+![ScreenShot Tool -20240527160552](https://github.com/onizukais/sybil-check/assets/170208261/67569674-fea8-47ea-b32d-720f918e7287)
+![ScreenShot Tool -20240527160558](https://github.com/onizukais/sybil-check/assets/170208261/4697a5bd-b42c-4e8a-90f0-70434de49cd3)
+![ScreenShot Tool -20240527160600](https://github.com/onizukais/sybil-check/assets/170208261/41ded471-0feb-4d93-982c-78745ea14d71)
+![ScreenShot Tool -20240527160603](https://github.com/onizukais/sybil-check/assets/170208261/4378a9b3-1c05-4fb8-820d-03b110cd2cc7)
+![ScreenShot Tool -20240527160606](https://github.com/onizukais/sybil-check/assets/170208261/9e4a8a7f-e014-4a3b-bb5f-1c15c52543ba)
+
 
 These addresses share the same CEX deposit address, are part of a cluster with multiple internal links, and exhibit the same on-chain behavior. This suggests a large-scale sybil operation, likely automated by scripts.
 
@@ -849,7 +846,6 @@ The first 8 addresses of the cluster share the same Binance deposit address: 0x2
 0x7eb2b5fd686bbf691033a58af6338fe15146150f
 0x88e40d257bff22047c85efe47c96c1a6965ee557
 0x80c05258bd76dad66e23b556919bbf78840c2a86
-0x4605415671854387018282ca2909a8f2a845721d
 0x84d0811ed9b18a378b108784a3c23092f6dd6c10
 0x4d5a5b375f6adfade95d7b78a7920017439549eb
 0xf158269e837a3c8f6463ee366c437b524ee1e62b
@@ -878,18 +874,17 @@ For example, their most recent Layer Zero interactions are the same, with the sa
 ![ScreenShot Tool -20240520190731](https://github.com/onizukais/sybil-check/assets/170208261/06f3ae96-ebbd-4c2c-b96a-6870e5dddc3b)
 
 
-Then, we can notice that these wallets made the same bridge transaction on Orderly Bridge, for the same amount (around 100$), at the same date period.
+All the addresses of the cluster have made a bridge transaction on ZkSync, on the same date (September 2023).
 
-![ScreenShot Tool -20240520191911](https://github.com/onizukais/sybil-check/assets/170208261/1415766e-73e5-4564-94b2-64dc519b7923)
-![ScreenShot Tool -20240520191932](https://github.com/onizukais/sybil-check/assets/170208261/bbf16233-8b3a-4bd5-839c-890aceb09eb4)
-![ScreenShot Tool -20240520191946](https://github.com/onizukais/sybil-check/assets/170208261/71f3008f-561f-41a7-bfe6-02db67eaa197)
-![ScreenShot Tool -20240520192002](https://github.com/onizukais/sybil-check/assets/170208261/4cfe2aa4-9b7f-44dc-863e-2082d6d5f201)
-![ScreenShot Tool -20240520192017](https://github.com/onizukais/sybil-check/assets/170208261/fe6dabee-02d8-4b02-bbd9-336bc89a771c)
-![ScreenShot Tool -20240520192030](https://github.com/onizukais/sybil-check/assets/170208261/d859672b-8a6e-4ced-8223-edc360533d25)
-![ScreenShot Tool -20240520192046](https://github.com/onizukais/sybil-check/assets/170208261/f20d56e0-4fd5-471a-b6c5-64d90cb46ab6)
-![ScreenShot Tool -20240520192102](https://github.com/onizukais/sybil-check/assets/170208261/454d448c-aace-4f5f-87fc-66d1f4eb6559)
-![ScreenShot Tool -20240520192117](https://github.com/onizukais/sybil-check/assets/170208261/aa54eaff-c271-462b-8c74-c84b335f2686)
-![ScreenShot Tool -20240520192128](https://github.com/onizukais/sybil-check/assets/170208261/e2b64a7d-a46f-4abc-8e8c-71993fd4e81a)
+![ScreenShot Tool -20240527165908](https://github.com/onizukais/sybil-check/assets/170208261/c788405c-14ff-49a5-adf2-07f4a8ffa864)
+![ScreenShot Tool -20240527165912](https://github.com/onizukais/sybil-check/assets/170208261/a20b403c-5bd4-4b7a-8b46-4c72e9e96315)
+![ScreenShot Tool -20240527165914](https://github.com/onizukais/sybil-check/assets/170208261/74e8fb76-dbf8-43d1-8ab4-b8eb6053ee9d)
+![ScreenShot Tool -20240527165917](https://github.com/onizukais/sybil-check/assets/170208261/509c8962-3261-465a-a350-82f14ec6ebb1)
+![ScreenShot Tool -20240527165920](https://github.com/onizukais/sybil-check/assets/170208261/3af9fa0b-42d5-43cc-bf16-f768e8df7b28)
+![ScreenShot Tool -20240527165923](https://github.com/onizukais/sybil-check/assets/170208261/1dc343c7-67b2-4e64-a113-dbb737488885)
+![ScreenShot Tool -20240527165925](https://github.com/onizukais/sybil-check/assets/170208261/16f5489c-5141-49cb-99de-41445351fbdb)
+![ScreenShot Tool -20240527165928](https://github.com/onizukais/sybil-check/assets/170208261/23672b07-6041-410d-b835-3e9079532505)
+
 
 
 
