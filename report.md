@@ -2881,6 +2881,7 @@ These addresses share the same CEX deposit address, are part of a cluster with m
 CLUSTER 45
 The first 42 addresses of the cluster share the same OKX deposit address: 0xF2b87cD3CA40e80e77FfA225ae8e473BF63743eb. The remaining addresses are linked to numerous other addresses within the cluster multiple times.
 
+```
 0xcf88c881c791b6879a9f1421b57245c3e3008038
 0x8ad465414b9f04dd85a2da0c09298bca0b0b6a9b 
 0xdeb699ad0580b9f6861a35186272b6cc2a78f135
@@ -2923,6 +2924,7 @@ The first 42 addresses of the cluster share the same OKX deposit address: 0xF2b8
 0x9250f6befc4f3a038dd36dcdf016bdc2cb3ecb05 
 0xf4f599ac646c169f1bb89efe09c1249e28e3988a 
 0x3dc906214011518bb81660640a3ae0feb6530a80
+```
 
 <img width="229" alt="image" src="https://github.com/onizukais/sybil-check/assets/170208261/e813a4de-6ca4-4fb8-b7bb-edcd8850f4bc">
 
@@ -2943,6 +2945,7 @@ CLUSTER 46
 
 The first 22 addresses of the cluster share the same Binance deposit address: 0xf75a6896C5479Bf6E481dc0a567e3b4f8cf11768. The remaining addresses are linked to numerous other addresses within the cluster multiple times.
 
+```
 0x40fafaa45b63fdbc1f23ae54f059e0ad197724a3
 0x1abfacdf721f23e5c4577e5949dcd33e22efbcb5 
 0xf2c388c6af4878ﬀf8f99da73c06f77b7a8d8481 
@@ -2965,7 +2968,7 @@ The first 22 addresses of the cluster share the same Binance deposit address: 0x
 0x0f9e97f5d11a871bf1bfd9ea89526135a60f31b5 
 0x45cd2a578f901781ef6df2aeﬀcd74df0fb2108f 
 0x1c999a9f4bca7832b795cdf13842d3c4f6372970
-
+```
 
 
 <img width="236" alt="image" src="https://github.com/onizukais/sybil-check/assets/170208261/0610a139-22a9-454a-a5f3-fe0058fc6750">
