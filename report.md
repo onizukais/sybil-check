@@ -1,4 +1,4 @@
-
+![image](https://github.com/onizukais/sybil-check/assets/170208261/9ca33270-5718-42b8-88b5-93035e7bcac4)
 
 Independent Clusters
 
@@ -1276,13 +1276,10 @@ The first 9 addresses of the cluster share the same Bybit deposit address: 0x54E
 
 ```
 0xa7caea9576e11eb2fd793b92d02cf467ffbf48ec
-0x842d0a47cf5b661adeb2e5a3e1afb61ae0a27423
 0x44e688025ec441fa43856bd5516368dda8ad1afb
 0xd51df14b9d9807b5a06d7699643832bec5395fd4
 0x6babf8a88741f75eb09e3a81fa61bf6dcc507f35
 0x45c785e38c1a2ec21523b0a27ecffdafea53dfb8
-0xb35586ba93aa5dc3c639c940a52b735f7629f976
-0x0fa9414c36467d765e47bd85fff94bd7250ca71e
 0x6bfe00a4813fa93134a40433d7d974a65fbd6b47
 0xa866ccd10e6684a45ec2c31ac38d2f327577cd2d
 0x231c5d2490a7c35931bdbd521b1c63d457739906
@@ -1290,7 +1287,6 @@ The first 9 addresses of the cluster share the same Bybit deposit address: 0x54E
 0xc4ac310e8c9d35a5a693bbc2d626913a542c4dc0
 0x08f0a7e08df3a0a35a50d60db353e619219677f0
 0xb7ed0f322d8cd453332666747da7b1166049cf12
-0xfaf69ccb6b7f6d73b700fc17ed525e277ce41d04
 0x4091161bf56129d9caf22d12f589e31d91cfa843
 0xafb0a803cbab4e3052cf6f56898d5a8823f776a0
 0x4699842934bf5a06ff0f266339a2b040f4ec0d1b
@@ -1329,22 +1325,16 @@ The first 9 addresses of the cluster share the same Bybit deposit address: 0x54E
 0x96caedcb12834ac794744445a9e629f5bb3f0dfd
 0xdb34f9d155699c5d0c06a9919132b4b3782cc9c4
 0xf56270aabdc648e05b0fdc3e93ed05a20c088148
-0x61ac400ded9f7f391539e66a9d88c74aa06f0e6b
-0x8859ac3d3d26055a8f6c6215c43e12073d850722
 0x70ad3e021b88b3b6acd287823be38f2adfd4f6bb
 0x14028fb951e900ef4a6910c6ae91cb146f824456
 0x65cab4725660bc0980446cc7e7cba64547436b60
-0x11ae3354630cf9b74797529a5a78de3910c03239
-0xe967e74e323a37ffd327abf2f4d65176e1b11759
 0x02d77cf588e781b7f7bcca221401a32a282d22ba
 0xbfd071b02657b2b625d30d917bcfdd2bd665f307
-0xb872064a42532f43a825e504ce4184f3971b673b
 0x3dad69ecb0338f3b5d0ae41f5d8315f7ec73e1b0
 0x1825f92a938106870f8e259191b466c4261a2d7e
 0xce8ebb4e36bdd0fa84fbccad0a5e4d2caa52d60c
 0xf17ef0a5841001838be37906071c5ef40110d666
 0x53ea81ea4f82367a5506474e85479fd6d4b5b53e
-0x0f94c5152194d02f81784f46d396c367dabdc972
 ```
 
 <img width="152" alt="image" src="https://github.com/onizukais/sybil-check/assets/170208261/29fb87f8-94d3-440b-a503-fd090682cd1c">
@@ -1356,6 +1346,21 @@ The addresses have the same on-chain activity. Their L0 interaction are the exac
 <img width="320" alt="image" src="https://github.com/onizukais/sybil-check/assets/170208261/64da50e0-af0a-4546-8a30-bf9780e987cb">
 <img width="329" alt="image" src="https://github.com/onizukais/sybil-check/assets/170208261/be23a816-2534-47b8-b6f6-741e896b35f2">
 <img width="340" alt="image" src="https://github.com/onizukais/sybil-check/assets/170208261/c2f4e159-b5fe-4eb4-9eb3-ffdbb58e1e41">
+
+All the addresses of the cluster has made the same transaction, on the same date range, for the same amount on ZkSync Lite.
+
+
+![ScreenShot Tool -20240527221813](https://github.com/onizukais/sybil-check/assets/170208261/5c8fe525-12d3-40fd-b478-5d60abe5bf6a)
+![ScreenShot Tool -20240527221816](https://github.com/onizukais/sybil-check/assets/170208261/2371f854-70d3-423d-ac58-fde83b5bcdea)
+![ScreenShot Tool -20240527221822](https://github.com/onizukais/sybil-check/assets/170208261/66f845fe-d57b-4698-9c02-2646716a6ab7)
+![ScreenShot Tool -20240527221836](https://github.com/onizukais/sybil-check/assets/170208261/05fa2d06-7cc7-43ba-8359-ee5a79c59619)
+![ScreenShot Tool -20240527221840](https://github.com/onizukais/sybil-check/assets/170208261/09fbda27-465d-42a6-9005-7bd01b57e4ac)
+![ScreenShot Tool -20240527221848](https://github.com/onizukais/sybil-check/assets/170208261/16aed5a1-8653-4006-a705-2ddbc0e4e2c7)
+![ScreenShot Tool -20240527221851](https://github.com/onizukais/sybil-check/assets/170208261/64243734-fc3c-422a-b261-f944d6ecc2de)
+![ScreenShot Tool -20240527221858](https://github.com/onizukais/sybil-check/assets/170208261/6a50028e-ff16-478b-95f9-8cce75567c62)
+![ScreenShot Tool -20240527221902](https://github.com/onizukais/sybil-check/assets/170208261/d35da3fc-41a7-4144-a62e-ce49050a4319)
+
+
 
 These addresses share the same CEX deposit address, are part of a cluster with multiple internal links, and exhibit the same on-chain behavior. This suggests a large-scale sybil operation, likely automated by scripts. 
 
@@ -2752,6 +2757,231 @@ These addresses share the same CEX deposit address, are part of a cluster with m
 
 
 
+CLUSTER19
+The first 15 addresses of the cluster share the same Binance deposit address: 0xe51204D3E4d85520Bf6ac95f5FB60d1e1B772A63. The remaining addresses are linked to numerous other addresses within the cluster multiple times.
+
+```
+0x8a00e8358ae8ebfe1cec2f7dcaa1b4eef774b10b
+ 0x18c57894c5ccbb86a175c3576e4696df9c0a2d63
+0x245c267ﬀ097d17369460aac4c5780e08fa8f259
+0x0ab31309e149dbf24fdfb73d8289e9cc0b902550
+0xb6062309cab895d5df4a50b4081e6523a866a8ea
+0xf38f31bc77e2996ed7c4f5c371eee1619c03f2a0
+0x0bf9e43584aea8bfea3fe1433f7cab595925339c
+0xf3108aa3d869ﬀ92c86e969d759ﬀb9acf6aab36
+0x9f78b8937256335a2a57e7a491382b3967cb3ae3
+0x68c31d8067a00d66ca427eef2d711f590034957a
+0x8d0a33567b53d929cbab493edf0fdfb877ede84d
+0xb6785ca3d11097a56afdce05f53a4230b6268c3b
+ 0xd574ad3531984deb4b8be0687fab0b70bc12ﬀ1b
+0x233b2e0308b7bebec4d28e64323133a1006a7425
+0xdf646c6938f75d41be7f6e6aa414acf5aa597497
+0x89fd3236b0ce9a81c61a3f1fb924463fda41b674
+0x287dc5364d91f4e0d305ebe97a1d5a1edafec29b
+0x18b0e5627350fe020d76778a26a8c94574302e53
+0xceef6fb30b149f759bd330f8255ﬀ08b23648dea
+0xa4dad71059cd5618d67d3d3531dea182cfd90730
+0x8950a1572f72f94c49c666a90b27bda623a8bfa9
+```
+
+<img width="192" alt="image" src="https://github.com/onizukais/sybil-check/assets/170208261/79601215-61b9-4d0a-ac67-b386f0046adc">
+
+For example, their most recent Layer Zero interactions are the same, with the same dapps used at the same time in the same order: Aptos Bridge 2 months ago, Stargate 3 months ago, Stargate 8 months ago and Stargate 11 months ago. This is the result of a script.
+
+
+<img width="340" alt="image" src="https://github.com/onizukais/sybil-check/assets/170208261/e88b2101-e64d-4abc-835a-0e87ba9b08fc">
+<img width="320" alt="image" src="https://github.com/onizukais/sybil-check/assets/170208261/c4e4dc2a-de68-4040-ba27-371c1acc9b5c">
+<img width="347" alt="image" src="https://github.com/onizukais/sybil-check/assets/170208261/5fbee2a3-86f9-48f9-83f7-150b6840a01f">
+<img width="305" alt="image" src="https://github.com/onizukais/sybil-check/assets/170208261/c3aaf914-4125-45d8-a923-494ebba40a19">
+<img width="341" alt="image" src="https://github.com/onizukais/sybil-check/assets/170208261/34a444bf-b0f8-4db1-8c9c-638f918d030c">
+<img width="323" alt="image" src="https://github.com/onizukais/sybil-check/assets/170208261/1a67821e-db74-40dd-8ff0-1ac8bee9e56f">
+
+These addresses share the same CEX deposit address, are part of a cluster with multiple internal links, and exhibit the same on-chain behavior. This suggests a large-scale sybil operation, likely automated by scripts.
+
+
+
+CLUSTER3
+
+The first 9 addresses of the cluster share the same OKX deposit address: 0x66D654FEeC6F8594d122cD6f0116c525aDFCBA11. The remaining addresses are linked to numerous other addresses within the cluster multiple times.
+
+```
+0xd311a997c2ef1dbc646cb941995a31a23a843e5c
+0x28a814676c98c356dﬀcf1702ﬀ8a6a4199993b1
+0x541bc299778baa8157a5bb093099791ﬀ05b0cc4
+ 0xfcc49e880b3a024d2a31742178d86ca5cfe0169d
+0x73f13a414d820b5e9118713c7466985890d2bbe8
+0x14b35ea598a18e171a8f1e724c356f83fb4a0f18
+0x105d326450701879833e3cd33f161493f082902d
+0x106829fc39b9e826f694686b0211d54c710e3dea
+ 0xeb14da0a6f4260404fea6a596d3ae68599890f20
+0x558fbb1b9dde11c85da59dee9b399bf37016a999
+0xc8a60f7fc1ca1e2c1c13ee85ee1130024f69b07f
+0xc729d5a6eb0caaf27f4a68f31545ee88c252a0a1
+ 0xb1a9c3c1841e55be6486d7844c2f8c791ea0d6d9
+0xe719d984b5873ee40d4e81071b4cef7dceca48cc
+0x692a15eab43e79f511abd4c26713c32301ec0252
+0x7b6ac5df584f466fa8670b1107638dc7e940796f
+0x76cd684cb4b6148f667e6ee7896e2f6fcb3caa7e
+0x682463b16fcb871a17d4fb70a504fca7e4414b83
+0x00a104b51215180cd87071962567cdﬀ6961e0b7
+0x98db5698bd3bbc83812d2a8e03e1411b847310ac
+0xb4d77e9a11425f8bb6924b374385282bf35a97d5
+0xe5174798675530e1ccac4d121aa56d67c8b0bd3c
+```
+
+
+<img width="220" alt="image" src="https://github.com/onizukais/sybil-check/assets/170208261/57399340-72a1-486f-acab-275a982ca948">
+
+These addresses exhibit the same on-chain activity.
+For example, their most recent Layer Zero interactions are the same, with the same dapps used at the same time in the same order: Aptos Bridge 3 months ago, Testnet Bridge 3 months ago, Fuse Bridge 7 months ago and Stargate 8 months ago. This is the result of a script.
+
+<img width="336" alt="image" src="https://github.com/onizukais/sybil-check/assets/170208261/58496aae-07ec-44f6-a341-0a8f04acfbcf">
+<img width="358" alt="image" src="https://github.com/onizukais/sybil-check/assets/170208261/f38604da-ae4b-49b6-af9b-8b19462142fd">
+<img width="358" alt="image" src="https://github.com/onizukais/sybil-check/assets/170208261/bf73b4da-69dd-4832-9968-843340ac8d03">
+
+These addresses share the same CEX deposit address, are part of a cluster with multiple internal links, and exhibit the same on-chain behavior. This suggests a large-scale sybil operation, likely automated by scripts.
+
+
+
+CLUSTER0
+
+The first 6 addresses of the cluster share the same OKX deposit address: 0x2828A1c761ca8CaCDBF412E9318eEE55c60D2027. The remaining addresses are linked to numerous other addresses within the cluster multiple times.
+
+```
+0x3e35a3c5c86ec36354f3011a5e31073869a70c33
+0x1913b726190393513b48d275bb538069197cf149
+0x8cb50b46e0708dc0b2b34e6077b876eb95a057af
+0x3728abb7373bc40120bbe878d4570b059de4bd67
+0xe0735dc521947f398d26184df05ca3803474eefd
+0xb6d008ce61a7d52775a0c1d9d1d7de2cbabfc18a
+0xfc03f894465e2b43be15a56918c4e298e2ee4be5
+0x50270d3eea45820a33e7b57072e49c37f0fbf40e
+0xac0ad531c8570d87eb30e47fc9307f48304fa0d7
+0x2caaa9c911de5990b474eb5c7679b8662d931eb2
+0xe2709b901d6ea39ﬀca044679b4e268f65c68661
+ 0xe44717f479e36b428d105f9594c1e1e33c3003cb
+ 0x2d232c211c80c8ce716b884b8fcd784bb55e6053
+0x4f2dc64360ebbe78c968338ed4baae1d14144340
+0x897aaceb5620805a04b561c076ca49667d663238
+0x9aa1575e60d33cd8e750f3193bdfa7d5540fe136
+0xe21b36ebede73eb8acc7e15e13407d629240cfbf
+0xbb3a0ceeea78fc630ea6ac4c97eecd106aefa16e
+ 0x227fbcb2931d501a31f29b1a356e12f71c6deb8d
+0x8d8979ba8c18e0591f08cdefa54980a13b71df1b
+ 0x1d639c172c474d56ef85dae0431295466734c197
+```
+
+<img width="215" alt="image" src="https://github.com/onizukais/sybil-check/assets/170208261/3864349b-0a0f-4633-9116-c7cb7e038589">
+
+These addresses exhibit the same on-chain activity.
+For example, their most recent Layer Zero interactions are the same, with the same dapps used at the same time in the same order: Merkly 8 months ago, Stargate 10 months ago, Stargate 11 months ago and Stargate 1 year ago. This is the result of a script
+
+
+<img width="331" alt="image" src="https://github.com/onizukais/sybil-check/assets/170208261/021cad68-f17d-4274-8319-45ea458112d7">
+<img width="341" alt="image" src="https://github.com/onizukais/sybil-check/assets/170208261/31a77b69-c887-4cf9-99da-e33c8629af2e">
+<img width="376" alt="image" src="https://github.com/onizukais/sybil-check/assets/170208261/d3946ec1-3471-482e-a74d-95c46b8524ce">
+<img width="340" alt="image" src="https://github.com/onizukais/sybil-check/assets/170208261/ddd64860-004b-4f4d-9814-27ddda5a4270">
+
+These addresses share the same CEX deposit address, are part of a cluster with multiple internal links, and exhibit the same on-chain behavior. This suggests a large-scale sybil operation, likely automated by scripts.
+
+
+CLUSTER26
+The first 42 addresses of the cluster share the same OKX deposit address: 0xF2b87cD3CA40e80e77FfA225ae8e473BF63743eb. The remaining addresses are linked to numerous other addresses within the cluster multiple times.
+
+0xcf88c881c791b6879a9f1421b57245c3e3008038
+0x8ad465414b9f04dd85a2da0c09298bca0b0b6a9b 
+0xdeb699ad0580b9f6861a35186272b6cc2a78f135
+0x548666548583e58028fb65e1c34f3bcd9fbc5c6b 
+0x6e4cd5fd99d6a0900c3b825ede82fa56b9258843 
+0x25104cfcf2b05c24cd683fd6e9c5a6241cf0f822 
+0x04ca4c8d135f086bafc1c5d69b3a85a4cd8a369c 
+0xbb42d4443d594f152a10dcdeb1346b85fbc8bd99 
+0x306d12539c8e1d284326598f5ec9e91b9efb3ca5 
+0x842ab13fb6df61ae405f21543d42bb8ae55b4fcf 
+0xbf4fe8e585c000e3db31096d6a2304fa8c0b88bc 
+0xb14a3a5ec0f04b94f8f4e3ce54959a8a235ad41f 
+0xe09919ecdaaaa036b45823cf1943c38e3496eed4 
+0xfcaf222858b1438fe2051cﬀ995f5a1299ceeab8 
+0x5b4a2c4c82dc9c91ee40b92c46fef0bdfcbf991f 
+0x1e86148d181651804fb624ﬀc21e20033aaba398
+0xd535e9a9605660ecec88dd16816a94c106fd89ef 
+0x909fe904989a533dc989e1bbfd3d09e59fca54d4 
+0x329881dc642c5535f95cda1a2c842d5bb6edd68d 
+0x04de9a5822befa0b48ed4848efb5901002484494 
+0x3fb9f961eb29a1a52e9bc432a2232059d0c68eb9 
+0xdb42a5b8c6396fb9fd1bd3fd108ad646bﬀ60a96 
+0xfc31634dd8fcc40dada355ce116bfbe8231fa40c 
+0xc66b6cd921399e69aa1f2e3adfcebcc6ef96c04c 
+0x92c6ca51f26a8f23c41ab5ecd81fd41f5066af00 
+0x19c36a369f8f2ac69d32a052f2bcd4bd142f01ce 
+0xd1d6c3c5a63f0959af1c382aad2465e26a39bdee 
+0x802c3db62b5e6d9f2663f323859ebc0f4a04192a 
+0xfae055226dcf099bb44b5643e19b888a0d868644 
+0x4b6e14ac642ae4dbd0562555dfd0a9484c1984cf 
+0xb54136169a6dd0f2616f94fb006b6b12cd11d15d 
+0xf3c95c9beca1c0cebccf25ec46c38d03c4162ecf 
+0xcf3e454f96e988cc1428d3cca5d55696546f5e2c 
+0x801dcf3b00afb1f11a644efdf86e42c0533ea83c 
+0x056fa8ea8dab6ad6ebe36e0448802ee45c9af16c
+0x3d06c13a999bbfcb9059599af32cbf129ﬀ2a3dc
+0xbﬀ528616d5682d00decd0e45e889e339fa38c0f
+0xb3ca9f58e9446aca55ee320dd0ﬀ08b291d4fef0 
+0xf1c2b551f0c3c0a1838f33356083584cf9f84a58 
+0x9250f6befc4f3a038dd36dcdf016bdc2cb3ecb05 
+0xf4f599ac646c169f1bb89efe09c1249e28e3988a 
+0x3dc906214011518bb81660640a3ae0feb6530a80
+
+<img width="229" alt="image" src="https://github.com/onizukais/sybil-check/assets/170208261/e813a4de-6ca4-4fb8-b7bb-edcd8850f4bc">
+
+These addresses exhibit the same on-chain activity.
+For example, their most recent Layer Zero interactions are the same, with the same dapps used at the same time in the same order: Gas.zip 2 month ago, Merkly 2 months ago and CoreDAO 3 months ago. This is the result of a script
+
+
+<img width="341" alt="image" src="https://github.com/onizukais/sybil-check/assets/170208261/e57f34c6-cd9f-417f-a902-4e0751c77ae1">
+<img width="341" alt="image" src="https://github.com/onizukais/sybil-check/assets/170208261/ca1a8f69-c1fc-49d9-bf70-f43ea2eafa53">
+<img width="347" alt="image" src="https://github.com/onizukais/sybil-check/assets/170208261/f1a4c7a3-80ce-46fe-b070-3726dfe7538d">
+<img width="340" alt="image" src="https://github.com/onizukais/sybil-check/assets/170208261/c3fc85f3-e48d-4f07-809e-88637f5c4cb6">
+<img width="305" alt="image" src="https://github.com/onizukais/sybil-check/assets/170208261/da16aa95-bd9e-441c-93a1-09805bdff486">
+
+These addresses share the same CEX deposit address, are part of a cluster with multiple internal links, and exhibit the same on-chain behavior. This suggests a large-scale sybil operation, likely automated by scripts.
+
+
+CLUSTER15
+
+The first 22 addresses of the cluster share the same Binance deposit address: 0xf75a6896C5479Bf6E481dc0a567e3b4f8cf11768. The remaining addresses are linked to numerous other addresses within the cluster multiple times.
+
+0x40fafaa45b63fdbc1f23ae54f059e0ad197724a3
+0x1abfacdf721f23e5c4577e5949dcd33e22efbcb5 
+0xf2c388c6af4878ﬀf8f99da73c06f77b7a8d8481 
+0x387b4ddc19fadb875b034237fd229b999df55e4f 
+0x0141e4b56659ae498469189a53bace4ac8aaa2b2 
+0xa0389824eb7c623b2eacb83f8c321ce001088b7a 
+0xc6779edcb5cbbfd0e22c85621e9c0badebfa784a 
+0xc2b5a98da6b7645678cf0d38439ba2ab7112c6d1 
+0x38a6f992ebd43ﬀ49cd4a5194b366df4ﬀ4f89ab 
+0x61f867db83f94f3de3253f12b9dﬀ886f61b4d75
+0x85980d65d563af38b16d49e757173fa894a25830
+0x0a386c9708e1d955eae075c1abbe2935971024c4 
+0xd208d3da55696d5f2ac14a1c7da731a32254c076 
+0x2f0fbcca14eaa0795847e856de912540935423c3 
+0xaf7214af8cf645012c8132cdf719f1e3073a2aee 
+0x7d8f7b55bf922699961829cd514f57d26577d333
+0xc6015cd17783892e737b8f294f393a66c5f3429d
+0x22b863a209fa7167c0dbfe9cﬀbb1fc0a75d06c1 
+0xd057df66360970dc05783a46fbb4a546c9bfef2b 
+0x0f9e97f5d11a871bf1bfd9ea89526135a60f31b5 
+0x45cd2a578f901781ef6df2aeﬀcd74df0fb2108f 
+0x1c999a9f4bca7832b795cdf13842d3c4f6372970
+
+
+
+
+
+
+
+
+These addresses exhibit the same on-chain activity.
+For example, their most recent Layer Zero interactions are the same, with the same dapps used at the same time in the same order: testnet bridge 2 month ago, stargate 10 months ago, Stargate 11 months ago and Stargate 1 year ago. This is the result of a script
 
 
 
@@ -2763,40 +2993,7 @@ These addresses share the same CEX deposit address, are part of a cluster with m
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+These addresses share the same CEX deposit address, are part of a cluster with multiple internal links, and exhibit the same on-chain behavior. This suggests a large-scale sybil operation, likely automated by scripts.
 
 
 
