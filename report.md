@@ -2977,6 +2977,7 @@ The first 22 addresses of the cluster share the same Binance deposit address: 0x
 
 
 
+<img width="236" alt="image" src="https://github.com/onizukais/sybil-check/assets/170208261/0610a139-22a9-454a-a5f3-fe0058fc6750">
 
 
 
@@ -2985,14 +2986,13 @@ The first 22 addresses of the cluster share the same Binance deposit address: 0x
 These addresses exhibit the same on-chain activity.
 For example, their most recent Layer Zero interactions are the same, with the same dapps used at the same time in the same order: testnet bridge 2 month ago, stargate 10 months ago, Stargate 11 months ago and Stargate 1 year ago. This is the result of a script
 
-
-
-
-
-
-
-
-
+<img width="322" alt="image" src="https://github.com/onizukais/sybil-check/assets/170208261/32b0d89b-068d-4b77-8a1f-babb5f1e4035">
+<img width="340" alt="image" src="https://github.com/onizukais/sybil-check/assets/170208261/17c917f7-ba71-4b4a-91c3-4de001bb1373">
+<img width="331" alt="image" src="https://github.com/onizukais/sybil-check/assets/170208261/1ebde690-aa2b-45ac-959a-9ef51f788fbf">
+<img width="341" alt="image" src="https://github.com/onizukais/sybil-check/assets/170208261/c136dd5c-8340-47db-919f-b04125bbc4c7">
+<img width="343" alt="image" src="https://github.com/onizukais/sybil-check/assets/170208261/283639ec-a0ed-44f0-a573-5c5c4299e472">
+<img width="323" alt="image" src="https://github.com/onizukais/sybil-check/assets/170208261/8b1f3f07-65a4-44e9-b61c-8e2b4f07fa4a">
+<img width="340" alt="image" src="https://github.com/onizukais/sybil-check/assets/170208261/3b1b3337-a221-4ff0-ada3-96d73eca73aa">
 
 
 These addresses share the same CEX deposit address, are part of a cluster with multiple internal links, and exhibit the same on-chain behavior. This suggests a large-scale sybil operation, likely automated by scripts.
