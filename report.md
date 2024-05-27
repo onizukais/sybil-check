@@ -349,7 +349,7 @@ Such activity cannot be conducted by a human, it's a script farming airdrops acc
 These addresses share the same CEX deposit address, are part of a cluster with multiple internal links, and exhibit the same on-chain behavior. This suggests a large-scale sybil operation, likely automated by scripts.
 
 
-CLUSTER 26
+CLUSTER 2
 
 The first 8 addresses of the cluster share the same Binance deposit address: 0x96c167D92bE4068940e8036f8CeAf91d0b6AAEF8. The remaining addresses are linked to numerous other addresses within the cluster multiple times.
 
@@ -418,7 +418,7 @@ Cluster + same CEX deposit address + same on-chain activity at the same time, th
 
 
 
-CLUSTER 50
+CLUSTER 3
 
 
 The first 5 addresses of the cluster share the same OKX deposit address: 0xD82b6ec56B76D5cA43D7826dce4e3d2Ff9C173DE. The remaining addresses are linked to numerous other addresses within the cluster multiple times.
@@ -497,6 +497,19 @@ We can also notice that the cluster's wallet used Stargate Arbitrum on the same 
 <img width="1002" alt="Capture d’écran 2024-05-19 à 22 43 02" src="https://github.com/onizukais/sybil-check/assets/170208261/d5ee02b7-cfce-4077-8092-6c56e1163818">
 <img width="986" alt="Capture d’écran 2024-05-19 à 22 43 19" src="https://github.com/onizukais/sybil-check/assets/170208261/f120598d-78ab-42de-9211-5b3f15749134">
 
+All the adresses of the cluster made a bridge transaction on Arbinova, at the same date range.
+
+![ScreenShot Tool -20240528003650](https://github.com/onizukais/sybil-check/assets/170208261/e1a68403-dfc5-4714-9d1b-8f804d8f076f)
+![ScreenShot Tool -20240528003655](https://github.com/onizukais/sybil-check/assets/170208261/ca995ffe-0690-41f3-b19c-ad23bc8aac27)
+![ScreenShot Tool -20240528003702](https://github.com/onizukais/sybil-check/assets/170208261/63763b9a-40fc-4aa8-b606-2347446a80e9)
+![ScreenShot Tool -20240528003707](https://github.com/onizukais/sybil-check/assets/170208261/7c9bd04d-c01a-423f-b2f4-b6a4a0231683)
+![ScreenShot Tool -20240528003713](https://github.com/onizukais/sybil-check/assets/170208261/f101ffa7-d812-4303-af36-2e5d2a60c68d)
+![ScreenShot Tool -20240528003719](https://github.com/onizukais/sybil-check/assets/170208261/18f54b20-0d23-4443-916b-610452554fad)
+![ScreenShot Tool -20240528003726](https://github.com/onizukais/sybil-check/assets/170208261/5105b298-87ee-4f98-8673-aa6b5e4f0581)
+![ScreenShot Tool -20240528003732](https://github.com/onizukais/sybil-check/assets/170208261/77b55db4-2d22-4200-99c4-2511696d92e8)
+![ScreenShot Tool -20240528003738](https://github.com/onizukais/sybil-check/assets/170208261/1a625b85-b43c-4bed-9d71-7f1aacf3f473)
+![ScreenShot Tool -20240528003744](https://github.com/onizukais/sybil-check/assets/170208261/153ba5a7-f259-4ea2-894d-4e8cb4c7eb88)
+
 
 These addresses share the same CEX deposit address, are part of a cluster with multiple internal links, and exhibit the same on-chain behavior. This suggests a large-scale sybil operation, likely automated by scripts.
 
@@ -506,9 +519,7 @@ These addresses share the same CEX deposit address, are part of a cluster with m
  
 
 
- 
-
-CLUSTER 51
+CLUSTER 4
 
 The first 7 addresses of the cluster share the same Binance deposit address: 0xDEa00B50ef00397c585a4A571585A3cecdCC8f5f. The remaining addresses are linked to numerous other addresses within the cluster multiple times.
 
@@ -576,7 +587,7 @@ These addresses share the same CEX deposit address, are part of a cluster with m
 
 
 
-CLUSTER 54
+CLUSTER 5
 
 The first 9 addresses of the cluster share the same OKX deposit address: 0xE7d9306fbB0e6331E98D8CDf5A63D2c2D9eaA855. The remaining addresses are linked to numerous other addresses within the cluster multiple times.
 
@@ -638,7 +649,7 @@ These addresses share the same CEX deposit address, are part of a cluster with m
 
  
 
- CLUSTER 63
+ CLUSTER 6
 
 The first 3 addresses of the cluster share the same Binance deposit address: 0xa4Cae6744968d92216dEFcA390bb74563A9A9A2b. The remaining addresses are linked to numerous other addresses within the cluster multiple times.
 
@@ -760,7 +771,7 @@ These addresses share the same CEX deposit address, are part of a cluster with m
 
 
 
-CLUSTER71
+CLUSTER 7
 
 The first 9 addresses of the cluster share the same OKX deposit address: 0xc0df049ae853686B06D7bF96d0977bd1D249BA6b. The remaining addresses are linked to numerous other addresses within the cluster multiple times.
 
@@ -824,7 +835,7 @@ All the addresses of the cluster have made a bridge transaction on Starknet, on 
 These addresses share the same CEX deposit address, are part of a cluster with multiple internal links, and exhibit the same on-chain behavior. This suggests a large-scale sybil operation, likely automated by scripts.
 
 
-CLUSTER108
+CLUSTER 8
 
 The first 8 addresses of the cluster share the same Binance deposit address: 0x29d9BA99ad344cCEddb5B8AE47C4fABF19aCd4c6. The remaining addresses are linked to numerous other addresses within the cluster multiple times.
 
@@ -892,7 +903,7 @@ These addresses share the same CEX deposit address, are part of a cluster with m
 
 
 
-CLUSTER109
+CLUSTER 9
 
 The first 8 addresses of the cluster share the same Binance deposit address: 0x2Bda48f4002F6cC364696e990F267A0c5b25054E. The remaining addresses are linked to numerous other addresses within the cluster multiple times.
 
@@ -964,7 +975,7 @@ All the addresses of the cluster locked similar amount of STG (around 5 $STG) on
 
 These addresses share the same CEX deposit address, are part of a cluster with multiple internal links, and exhibit the same on-chain behavior. This suggests a large-scale sybil operation, likely automated by scripts.
 
-CLUSTER119
+CLUSTER 10
 
 The first 8 addresses of the cluster share the same OKX deposit address: 0x40Cee519D40f47BA6f0c57bEE874377BFe366eBA. The remaining addresses are linked to numerous other addresses within the cluster multiple times.
 
@@ -1041,7 +1052,7 @@ All the addresses of the cluster locked similar amount of STG (around 40 $STG) o
 
 These addresses share the same CEX deposit address, are part of a cluster with multiple internal links, and exhibit the same on-chain behavior. This suggests a large-scale sybil operation, likely automated by scripts.
 
-CLUSTER126
+CLUSTER 11
 
 
 The first 14 addresses of the cluster share the same Binance deposit address: 0x553dCEe501865C6dE9d4d7A3A3011661352006fB. The remaining addresses are linked to numerous other addresses within the cluster multiple times.
@@ -1122,7 +1133,7 @@ All the addresses of the cluster locked $STG on Stargate Arbitrum on the same da
 
 These addresses share the same CEX deposit address, are part of a cluster with multiple internal links, and exhibit the same on-chain behavior. This suggests a large-scale sybil operation, likely automated by scripts.
 
-CLUSTER135
+CLUSTER 12
 
 The first 6 addresses of the cluster share the same OKX deposit address: 0x6Ac489A83C5207B052D0A7D7638EE6eDB52afE92. The remaining addresses are linked to numerous other addresses within the cluster multiple times.
 
@@ -1192,7 +1203,7 @@ These addresses share the same CEX deposit address, are part of a cluster with m
 
 
 
-CLUSTER5
+CLUSTER 13
 
 The first 7 addresses of the cluster share the same Binance deposit address: 0x7D8470F46E49455070874c306d7C3601e30fa46e. The remaining addresses are linked to numerous other addresses within the cluster multiple times.
 
@@ -1271,7 +1282,7 @@ All the addresses of the cluster locked similar amount of STG (around 30 $STG) o
 These addresses share the same CEX deposit address, are part of a cluster with multiple internal links, and exhibit the same on-chain behavior. This suggests a large-scale sybil operation, likely automated by scripts.
 
 
-CLUSTER124
+CLUSTER 14
 
 The first 9 addresses of the cluster share the same Bybit deposit address: 0x54ECe100579a991fB08A0a8DA9c0367466cd2E96. The remaining addresses are linked to numerous other addresses within the cluster multiple times.
 
@@ -1368,7 +1379,7 @@ These addresses share the same CEX deposit address, are part of a cluster with m
 
 
 
-CLUSTER134
+CLUSTER 15
 
 This cluster contains only 17 addresses.
 
@@ -1426,7 +1437,7 @@ All the adresses made the same lock transaction of STG on Stargate Arbitrum, on 
 These addresses share the same CEX deposit address, are part of a cluster with multiple internal links, and exhibit the same on-chain behavior. This suggests a large-scale sybil operation, likely automated by scripts. 
 
 
-CLUSTER140
+CLUSTER 16
 
 
 The first 11 addresses of the cluster share the same Binance deposit address: 0x77AfB814E97e3Cf45308ee314f8D2921cD7083bf. The remaining addresses are linked to numerous other addresses within the cluster multiple times.
@@ -1491,7 +1502,7 @@ All the address of the cluster has made the same ZkSync lite transaction, on the
 These addresses share the same CEX deposit address, are part of a cluster with multiple internal links, and exhibit the same on-chain behavior. This suggests a large-scale sybil operation, likely automated by scripts.
 
 
-CLUSTER141
+CLUSTER 17
 
 The first 9 addresses of the cluster share the same OKX deposit address: 0x7Ba97387368D5A22baEbb4ccBeeE9Dca3D66BBF0. The remaining addresses are linked to numerous other addresses within the cluster multiple times.
 
@@ -1551,7 +1562,7 @@ All the addresses of the cluser made a bridge transaction on Starknet at the sam
 These addresses share the same CEX deposit address, are part of a cluster with multiple internal links, and exhibit the same on-chain behavior. This suggests a large-scale sybil operation, likely automated by scripts. 
 
 
-CLUSTER143
+CLUSTER 18
 
 The first 10 addresses of the cluster share the same OKX deposit address: 0x805656a6c89AC7a0e8097914EDCD9c0330c94513. The remaining addresses are linked to numerous other addresses within the cluster multiple times.
 
@@ -1566,7 +1577,6 @@ The first 10 addresses of the cluster share the same OKX deposit address: 0x8056
 0x90795c9eed0c18f031c3329143aa089eadfb70ea
 0xd7018846e545e48ae44876b55a40c7c2667e7a0b
 0x5a8403c52889994192b1a7500b40ba03d05be6b0
-0xb62287c0779c25ec259c1efcb5c46940f22113b9
 0xad73ad629f2664d72d481d55264f496fb30bb20c
 0x57e16f8e90fb0ce7edb8caa30850ee0ffeab27ac
 0x16069678277bac3739eb3c3199c89dd4e77627a1
@@ -1594,26 +1604,31 @@ The addresses have the same on-chain activity. Their L0 interaction are the exac
 <img width="323" alt="image" src="https://github.com/onizukais/sybil-check/assets/170208261/ffc06019-5355-49ae-95b8-d4ce9dd9c0da">
 <img width="305" alt="image" src="https://github.com/onizukais/sybil-check/assets/170208261/8e01af36-c9da-4e92-a8eb-e7a7783e0dd5">
 
-All the addresses of the cluster locked similar amount of STG (around 10 $STG) on the same date range in April 2023 on Stargate Arbitrum.
+All the addresses of the cluster made the same bridge transaction on Linea, on the same date range, for the same amount.
 
-![ScreenShot Tool -20240522172123](https://github.com/onizukais/sybil-check/assets/170208261/f4d411d9-85e3-40fb-9a72-ec6b11058981)
-![ScreenShot Tool -20240522172137](https://github.com/onizukais/sybil-check/assets/170208261/2eb9d63a-1ef7-43c4-a9dc-d3b4606d038c)
-![ScreenShot Tool -20240522172154](https://github.com/onizukais/sybil-check/assets/170208261/4a7c02f6-2b19-4693-ade0-0eaab34893a0)
-![ScreenShot Tool -20240522172211](https://github.com/onizukais/sybil-check/assets/170208261/b565ecbc-3e67-4d8a-9929-879c76e51976)
-![ScreenShot Tool -20240522172226](https://github.com/onizukais/sybil-check/assets/170208261/298fb6cb-7b70-4357-ae4d-ed1a98e088f0)
-![ScreenShot Tool -20240522172238](https://github.com/onizukais/sybil-check/assets/170208261/ef29809b-b5cd-4d6e-9226-ef1c153981a1)
+
+![ScreenShot Tool -20240528001254](https://github.com/onizukais/sybil-check/assets/170208261/ad7fe4cd-1a8f-4a5b-8fab-63653d90f26b)
+![ScreenShot Tool -20240528001303](https://github.com/onizukais/sybil-check/assets/170208261/4de531c4-cc5f-403a-bbd7-3df4faf2a088)
+![ScreenShot Tool -20240528001312](https://github.com/onizukais/sybil-check/assets/170208261/031373b6-ad2b-42c7-a74e-6195b969a836)
+![ScreenShot Tool -20240528001320](https://github.com/onizukais/sybil-check/assets/170208261/75022e1d-a0f2-4f3a-853f-5f31c9b46290)
+![ScreenShot Tool -20240528001335](https://github.com/onizukais/sybil-check/assets/170208261/a69f90b7-47a3-4ddc-b3ef-d6c78913733f)
+![ScreenShot Tool -20240528001341](https://github.com/onizukais/sybil-check/assets/170208261/e620116f-71df-4244-b140-2afdfaf3b942)
+![ScreenShot Tool -20240528001349](https://github.com/onizukais/sybil-check/assets/170208261/649307d9-b656-4b0c-a116-e554bf512994)
+![ScreenShot Tool -20240528001356](https://github.com/onizukais/sybil-check/assets/170208261/5f9b864b-9f75-40a3-8927-afe9a8a89a5d)
+![ScreenShot Tool -20240528001401](https://github.com/onizukais/sybil-check/assets/170208261/7fda04db-36fb-40f1-b239-8c8c200c0443)
+
+
 
 
 These addresses share the same CEX deposit address, are part of a cluster with multiple internal links, and exhibit the same on-chain behavior. This suggests a large-scale sybil operation, likely automated by scripts.
 
 
-CLUSTER147
+CLUSTER 19
 
 The first 8 addresses of the cluster share the same Binance deposit address: 0x89F45Cbb309850aa14eCd27fA9EDD735Aea723bB. The remaining addresses are linked to numerous other addresses within the cluster multiple times.
 
 ```
 0xeccbb285157b89425a420175deebc22b2f4acac5
- 0x26e61d34607a6b6181126b9964d30f0f79743a5a
 0x777f747095d28606a5d7f6518aee98f8061c221f
 0xc35433503f08a011f12bc29b3e38e8a473b8a490
 0x13be4da539271084a17059e3faa80e12d254fc19
@@ -1626,7 +1641,7 @@ The first 8 addresses of the cluster share the same Binance deposit address: 0x8
 0xe61f43464b3f46b4cd8841cf77755c540f128151
 0x15e30badf9027a81ab182c1e59045ceb63ed4d3d
 0xb16ff090dee668e23e206e51cc5ef5390cbb6ffb
- 0x77161be5596f8614ad336472c3c8460576da4625
+0x77161be5596f8614ad336472c3c8460576da4625
 0x4c65e047c7fc28cbdfb8e9ca15fb10f0666eae2b
 0x16148617384f70e0db33449fe15459e7ca7877bc
 0x9f3c9ad03cd27923bef7a58ea1d1a7517094111f
@@ -1649,93 +1664,29 @@ The first 8 addresses of the cluster share the same Binance deposit address: 0x8
 The addresses have the same on-chain activity. Their L0 interaction are the exact same, the same DAPPS in the same order in the same timespan. For example, their latest L0 interaction all are the same, and follow the exact same pattern : Merkly 4 months ago, Merkly 6 months ago, Merkly 9 months ago and Merkly 10 months ago. This is the result of a script.
 
 
-
 <img width="331" alt="image" src="https://github.com/onizukais/sybil-check/assets/170208261/f85d845e-805b-4eb2-9690-5a739033ef83">
 <img width="338" alt="image" src="https://github.com/onizukais/sybil-check/assets/170208261/d3cb0094-7323-4004-afae-e1f10aac2dc2">
 <img width="337" alt="image" src="https://github.com/onizukais/sybil-check/assets/170208261/a38d0010-dc21-4d2b-b14d-680930046570">
 
-These addresses share the same CEX deposit address, are part of a cluster with multiple internal links, and exhibit the same on-chain behavior. This suggests a large-scale sybil operation, likely automated by scripts.
+All the adresses of the cluster made the same bridge transaction on ZkSync Lite, at the same date range, for the same amount.
 
-CLUSTER71
-The first 11 addresses of the cluster share the same Binance deposit address: 0x1aA7d3117Cc54c04951BeAF9e1123A9f9c35682B. The remaining addresses are linked to numerous other addresses within the cluster multiple times.
+![ScreenShot Tool -20240528002621](https://github.com/onizukais/sybil-check/assets/170208261/1e01967c-cbd3-4788-9ee2-7eb0eecfe544)
+![ScreenShot Tool -20240528002630](https://github.com/onizukais/sybil-check/assets/170208261/43f38e87-9c12-4795-b971-293cfa7dfb3e)
+![ScreenShot Tool -20240528002635](https://github.com/onizukais/sybil-check/assets/170208261/25266442-23e6-4891-b71a-627406749b04)
+![ScreenShot Tool -20240528002641](https://github.com/onizukais/sybil-check/assets/170208261/5ac87e9c-eac3-4e4b-acb5-ef46c8c88e6e)
+![ScreenShot Tool -20240528002709](https://github.com/onizukais/sybil-check/assets/170208261/aa42796a-5cd6-40d4-b5c3-f70a5e478b3c)
+![ScreenShot Tool -20240528002716](https://github.com/onizukais/sybil-check/assets/170208261/93f38a20-3224-4dbb-a49f-b412819c41b2)
+![ScreenShot Tool -20240528002722](https://github.com/onizukais/sybil-check/assets/170208261/cf5a9776-b411-4981-85e5-df9ab2a3e691)
+![ScreenShot Tool -20240528002728](https://github.com/onizukais/sybil-check/assets/170208261/5aecf28e-921a-4861-b29c-f0dac9633c7a)
+![ScreenShot Tool -20240528002733](https://github.com/onizukais/sybil-check/assets/170208261/44a27da5-f5d3-47ed-96fe-0c6bb3054522)
+![ScreenShot Tool -20240528002740](https://github.com/onizukais/sybil-check/assets/170208261/1c65a360-e216-47fa-abb8-6b3eb28d1816)
 
-```
-0xa427e41b13a1b70814693a72701e51826e7030bb
-0x9ca9e319229c81531c9a446e9eﬀ395aea9f15d5 
-0xb731f1fabd58f63f7b8e4d6d6c0d8696435bc144 
-0xa5b106eﬀfa6a3e131fb4a0305bf767beb5833fa 
-0xc35fc3319e9ca191cec422a426b0dcc20abc984a
-0xﬀeb037c74faf4466edd9554d4e281b93ab2ﬀ26
-0xca147d67bb9d288cb5e8cee073b743f3254462e4
-0xbc4f3a89ac15c977cd432304881d8401cb813757
-0x73dc8cc7551424a751d623a91cf86641ceddaa1c
-0xfe5c727889e9dc104ad93ac3fdb1a6288f634d3c
-0x4d92bba436b602a4f5a1ﬀdd18f47526a0e60430
-0xc0aa05fb889b6b1a00f11519a55be7dd3ba9f623
-0xf1f7f573ae497f72a0f12c4cﬀdabfab4325b23e
-0xdac073bf7ab0ﬀ2d1df7383be6ae36b9185af59a
-0x7e7c1b442314f504486a5219b21f9b5c08a08661
-0xfd90e736a50b4c0e756c4d1085f494edec760031
-0x6b0487d1ca7cf56f2d4244f102b108393ee726d7
-0x238e04b7a02e410bf3c80da60699e082efca8a9c
-0x636982a6ecfb8a5bef40008ec0eee41c9bd245e8
-0x8357be5ea76da0558508796c0a6d21a2ab6ab094
-0x25296b6a757a7c9ed9e6b2b77f69fc32647df1cb
-0x20de17a40d809e6e93d46471cfd22dfceba338ab
-```
-
-<img width="210" alt="image" src="https://github.com/onizukais/sybil-check/assets/170208261/812c09c0-369a-4912-bce5-f23bc5487304">
-
-These addresses exhibit the same on-chain activity.
-For example, their most recent Layer Zero interactions are the same, with the same dapps used at the same time in the same order: Stargate 3 months ago, Stargate 9 months ago, Holograph 11 months ago and Angle 11 months ago. This is the result of a script
-
-<img width="355" alt="image" src="https://github.com/onizukais/sybil-check/assets/170208261/0dfcfe97-dcd2-4964-b650-a21aba6a134a">
-<img width="358" alt="image" src="https://github.com/onizukais/sybil-check/assets/170208261/65bd5680-343c-4191-b32f-2956e0aab61b">
-<img width="342" alt="image" src="https://github.com/onizukais/sybil-check/assets/170208261/1ad6c70b-6a05-4da6-b79c-80bace43c084">
 
 These addresses share the same CEX deposit address, are part of a cluster with multiple internal links, and exhibit the same on-chain behavior. This suggests a large-scale sybil operation, likely automated by scripts.
 
 
-CLUSTER8
-The first 18 addresses of the cluster share the same Binance deposit address: 0x27E235EFbD19394a2A44133e0013147dFa494655. The remaining addresses are linked to numerous other addresses within the cluster multiple times.
 
-```
-0x3a5d0b32ad798c53f6ab38bbc597caf41c3ca23f 
-0x28762368918b6cc388fc5d0b8215ad84b0b9c3f8 
-0xda42f58fe01a887d6c1f6b97e7213f55f01b64b9 
-0xf9f5d3c361b736d7b82e0a59edb22bfb2015cf68 
-0x3998fc81353f4b7ab8517254f1b91c244552f3a5
-0x8a37996236477abdb34d45c94af0db05be2fd962 
-0x418a21e1a5a0c888dcfc305455bc884f72269fec 
-0x621a24c89b9012f28e26a39667bf69814f302cd5
-0x509f520843244be4b1da80fb3855f58778e89c9b 
-0x87f6ef8ee9e973f1ca3e158b5e2de310efad7b89 
-0x1451337c6d48e7cf777d71ddb2d767428bf73808 
-0xb05ee38b526a61fce19f45ce34a858d7b50469f4 
-0x8f9ce9cad479a70c228617be93d074221de352d9 
-0x899750ebc4e8af21f8144706dee9cc52a550162d 
-0x29b99feeb73d867de8218536573e2c3b89f4a12c 
-0xdfecb16c9a13493f14f4e9552e49c9be9141aae3 
-0x5167cc258250bb5f2682666968a7e9fe4fbe867a 
-0x432d17cf52af3b2c0b176382b926c7044f797af3 
-0x8b635cabe78771998dfe00d81a213e03d7c26edf 
-0x0f16019dce909088f1bc3dd4800edf565da85008 
-0x3004f561b726ab7d941574f56053c5d8bc7485d6
-0x4c0a7588b5cee6025cf9a84cd312c0d51e6c39c6 
-0xa592f5017751e07e754800660c2eea1d626d41d6
-```
 
-<img width="237" alt="image" src="https://github.com/onizukais/sybil-check/assets/170208261/384ff3e3-559d-4123-a1a5-4cd486c2b02d">
-
-These addresses exhibit the same on-chain activity.
-For example, their most recent Layer Zero interactions are the same, with the same dapps used at the same time in the same order: BTC.c 7 months ago, Angle 7 months ago, Stargate 7 months ago and BTC.b 8 months ago. This is the result of a script
-
-<img width="348" alt="image" src="https://github.com/onizukais/sybil-check/assets/170208261/7cc9292b-ef67-4100-8c03-4c18c09ab6e6">
-<img width="348" alt="image" src="https://github.com/onizukais/sybil-check/assets/170208261/b28f2c83-3e53-41f1-ae5d-3bb6b63bf58c">
-<img width="340" alt="image" src="https://github.com/onizukais/sybil-check/assets/170208261/36d92c66-4df0-4f23-a277-f78aca9a74b5">
-<img width="360" alt="image" src="https://github.com/onizukais/sybil-check/assets/170208261/e88d9b98-5638-4e66-ac4a-afe4e4cf3d47">
-
-These addresses share the same CEX deposit address, are part of a cluster with multiple internal links, and exhibit the same on-chain behavior. This suggests a large-scale sybil operation, likely automated by scripts.
 
 
 
@@ -1779,7 +1730,7 @@ These addresses share the same CEX deposit address, are part of a cluster with m
 
 
 
-CLUSTER18
+CLUSTER 21
 
 The first 24 addresses of the cluster share the same Binance deposit address: 0xf2585C30F2B849335e0B09CBDDC4ab028b1aD82C. The remaining addresses are linked to numerous other addresses within the cluster multiple times.
 
@@ -1836,7 +1787,7 @@ For example, their most recent Layer Zero interactions are the same, with the sa
 
 These addresses share the same CEX deposit address, are part of a cluster with multiple internal links, and exhibit the same on-chain behavior. This suggests a large-scale sybil operation, likely automated by scripts.
 
-CLUSTER16
+CLUSTER 22
 
 The first 13 addresses of the cluster share the same Binance deposit address: 0xc5a39cbB7e734dC77fde6D633FE537E76aB2fe2B. The remaining addresses are linked to numerous other addresses within the cluster multiple times.
 
@@ -1883,7 +1834,7 @@ For example, their most recent Layer Zero interactions are the same, with the sa
 These addresses share the same CEX deposit address, are part of a cluster with multiple internal links, and exhibit the same on-chain behavior. This suggests a large-scale sybil operation, likely automated by scripts.
 
 
-CLUSTER7
+CLUSTER 23
 
 The first 20 addresses of the cluster share the same OpenSea User deposit address: 0x37B137c289EF56f89AEFaeB6B51d0137D124E67e. The remaining addresses are linked to numerous other addresses within the cluster multiple times.
 
@@ -1929,7 +1880,7 @@ For example, their most recent Layer Zero interactions are the same, with the sa
 
 These addresses share the same CEX deposit address, are part of a cluster with multiple internal links, and exhibit the same on-chain behavior. This suggests a large-scale sybil operation, likely automated by scripts.
 
-CLUSTER4
+CLUSTER 24
 
 The first 15 addresses of the cluster share the same Binance deposit address: 0x32285F7F5b71AFD2bB32D0705009393C78E0eDE2. The remaining addresses are linked to numerous other addresses within the cluster multiple times.
 
@@ -1972,7 +1923,7 @@ For example, their most recent Layer Zero interactions are the same, with the sa
 
 These addresses share the same CEX deposit address, are part of a cluster with multiple internal links, and exhibit the same on-chain behavior. This suggests a large-scale sybil operation, likely automated by scripts.
  
-CLUSTER10
+CLUSTER 25
 
 The first 13 addresses of the cluster share the same Binance deposit address: 0x7E984144c62A56F4Ced5f6DA73DB0cCBF78448A2. The remaining addresses are linked to numerous other addresses within the cluster multiple times.
 
@@ -2021,7 +1972,7 @@ For example, their most recent Layer Zero interactions are the same, with the sa
 
 These addresses share the same CEX deposit address, are part of a cluster with multiple internal links, and exhibit the same on-chain behavior. This suggests a large-scale sybil operation, likely automated by scripts.
 
-CLUSTER12
+CLUSTER 26
 
 The first 15 addresses of the cluster share the same Binance deposit address: 0x7fCAf3402c883FE644F271783D93559f994E70D2. The remaining addresses are linked to numerous other addresses within the cluster multiple times.
 
@@ -2066,7 +2017,7 @@ For example, their most recent Layer Zero interactions are the same, with the sa
 These addresses share the same CEX deposit address, are part of a cluster with multiple internal links, and exhibit the same on-chain behavior. This suggests a large-scale sybil operation, likely automated by scripts.
 
  
-CLUSTER14
+CLUSTER 27
 
 The first 15 addresses of the cluster share the same Binance deposit address: 0xDe6fD10bA7990507E4328094a51c36FbE338Ca28. The remaining addresses are linked to numerous other addresses within the cluster multiple times.
 
@@ -2110,7 +2061,7 @@ For example, their most recent Layer Zero interactions are the same, with the sa
 
 These addresses share the same CEX deposit address, are part of a cluster with multiple internal links, and exhibit the same on-chain behavior. This suggests a large-scale sybil operation, likely automated by scripts.
 
-CLUSTER245
+CLUSTER 28
 
 The first 21 addresses of the cluster share the same Binance deposit address: 0x9a09CDD534E43677197335f099bCcEA3Ce4065dF. The remaining addresses are linked to numerous other addresses within the cluster multiple times.
 
@@ -2160,7 +2111,7 @@ For example, their most recent Layer Zero interactions are the same, with the sa
 
 These addresses share the same CEX deposit address, are part of a cluster with multiple internal links, and exhibit the same on-chain behavior. This suggests a large-scale sybil operation, likely automated by scripts.
  
-CLUSTER85
+CLUSTER 29
 
 The first 10 addresses of the cluster share the same Binance deposit address: 0x56D631A97581760ca7B9f0821855A755596245a3. The remaining addresses are linked to numerous other addresses within the cluster multiple times.
 
@@ -2208,7 +2159,7 @@ For example, their most recent Layer Zero interactions are the same, with the sa
 These addresses share the same CEX deposit address, are part of a cluster with multiple internal links, and exhibit the same on-chain behavior. This suggests a large-scale sybil operation, likely automated by scripts.
 
  
-CLUSTER62
+CLUSTER 30
 
 The first 10 addresses of the cluster share the same Binance deposit address: 0x492B5ABF2799E9066aeE08cA9B9A8a097f48115e. The remaining addresses are linked to numerous other addresses within the cluster multiple times.
 
@@ -2249,7 +2200,7 @@ For example, their most recent Layer Zero interactions are the same, with the sa
 
 These addresses share the same CEX deposit address, are part of a cluster with multiple internal links, and exhibit the same on-chain behavior. This suggests a large-scale sybil operation, likely automated by scripts.
  
-CLUSTER44
+CLUSTER 31
 
 The first 10 addresses of the cluster share the same OKX deposit address: 0x3d92169dF77aA144F91F2711dF9773fbd82db588. The remaining addresses are linked to numerous other addresses within the cluster multiple times.
 
@@ -2300,7 +2251,7 @@ For example, their most recent Layer Zero interactions are the same, with the sa
 
 These addresses share the same CEX deposit address, are part of a cluster with multiple internal links, and exhibit the same on-chain behavior. This suggests a large-scale sybil operation, likely automated by scripts.
  
-CLUSTER28
+CLUSTER 32
 
 The first 6 addresses of the cluster share the same Binance deposit address: 0x32e122886F3bB78d72C0C66c746A85be5692Dca7. The remaining addresses are linked to numerous other addresses within the cluster multiple times.
 
@@ -2351,7 +2302,7 @@ For example, their most recent Layer Zero interactions are the same, with the sa
 
 These addresses share the same CEX deposit address, are part of a cluster with multiple internal links, and exhibit the same on-chain behavior. This suggests a large-scale sybil operation, likely automated by scripts.
  
-CLUSTER23
+CLUSTER 33
 
 The first 12 addresses of the cluster share the same OKX deposit address: 0x2c479AB4f03BF0E4ad84A959C310b55fB160399F. The remaining addresses are linked to numerous other addresses within the cluster multiple times.
 
@@ -2400,7 +2351,7 @@ For example, their most recent Layer Zero interactions are the same, with the sa
 These addresses share the same CEX deposit address, are part of a cluster with multiple internal links, and exhibit the same on-chain behavior. This suggests a large-scale sybil operation, likely automated by scripts.
 
  
-CLUSTER8
+CLUSTER 34
 
 The first 11 addresses of the cluster share the same Binance deposit address: 0x2833d2c1B57D9777e8a32d029A2b3C77731Ba1e6. The remaining addresses are linked to numerous other addresses within the cluster multiple times.
 
@@ -2457,7 +2408,7 @@ For example, their most recent Layer Zero interactions are the same, with the sa
 
 These addresses share the same CEX deposit address, are part of a cluster with multiple internal links, and exhibit the same on-chain behavior. This suggests a large-scale sybil operation, likely automated by scripts.
  
-CLUSTER110
+CLUSTER 35
 
 The first 27 addresses of the cluster share the same Binance deposit address: 0x21790FaB1D2BA5a089e976dD90c0b73E404bdD56. The remaining addresses are linked to numerous other addresses within the cluster multiple times.
 
@@ -2515,7 +2466,7 @@ For example, their most recent Layer Zero interactions are the same, with the sa
 
 These addresses share the same CEX deposit address, are part of a cluster with multiple internal links, and exhibit the same on-chain behavior. This suggests a large-scale sybil operation, likely automated by scripts.
  
-CLUSTER103
+CLUSTER 36
 
 The first 3 addresses of the cluster share the same Coinbase deposit address: 0x201Ec8dd7c3451747E97B2B9eA7eFb751fd8bc4f. The remaining addresses are linked to numerous other addresses within the cluster multiple times.
 
@@ -2560,7 +2511,7 @@ These addresses share the same CEX deposit address, are part of a cluster with m
 
 
 
-CLUSTER9
+CLUSTER 37
 
 The first 12 addresses of the cluster share the same Binance deposit address: 0xBF1EA474798656E0e4C7A10e5a7b140a95913C5a. The remaining addresses are linked to numerous other addresses within the cluster multiple times.
 
@@ -2604,7 +2555,7 @@ These addresses share the same CEX deposit address, are part of a cluster with m
 
 
 
-CLUSTER16
+CLUSTER 38
 
 The first 12 addresses of the cluster share the same Binance deposit address: 0xbae2dFc63c9c0113729c634ad2D0fFF07518dEDD. The remaining addresses are linked to numerous other addresses within the cluster multiple times.
 
@@ -2657,7 +2608,7 @@ These addresses share the same CEX deposit address, are part of a cluster with m
 
 
 
-CLUSTER0
+CLUSTER 39
 
 The first 20 addresses of the cluster share the same Bybit deposit address: 0x8B42e636D2022f4f904730E384e1A7673537bc02. The remaining addresses are linked to numerous other addresses within the cluster multiple times.
 
@@ -2702,7 +2653,7 @@ These addresses share the same CEX deposit address, are part of a cluster with m
 
 
 
- CLUSTER8
+ CLUSTER 40
  
 The first 15 addresses of the cluster share the same OKX deposit address: 0xB7cEae6B3BccE55fD1Ed11c7326675a0Ed11F1FD. The remaining addresses are linked to numerous other addresses within the cluster multiple times.
 
@@ -2747,7 +2698,7 @@ These addresses share the same CEX deposit address, are part of a cluster with m
  
 
 
- CLUSTER5
+ CLUSTER 41
  
 The first 9 addresses of the cluster share the same Binance deposit address: 0x99b58e924A9DB695620f81CE94B93f1590395560. The remaining addresses are linked to numerous other addresses within the cluster multiple times.
 
@@ -2798,7 +2749,7 @@ These addresses share the same CEX deposit address, are part of a cluster with m
 
 
 
-CLUSTER19
+CLUSTER 42
 The first 15 addresses of the cluster share the same Binance deposit address: 0xe51204D3E4d85520Bf6ac95f5FB60d1e1B772A63. The remaining addresses are linked to numerous other addresses within the cluster multiple times.
 
 ```
@@ -2841,7 +2792,7 @@ These addresses share the same CEX deposit address, are part of a cluster with m
 
 
 
-CLUSTER3
+CLUSTER 43
 
 The first 9 addresses of the cluster share the same OKX deposit address: 0x66D654FEeC6F8594d122cD6f0116c525aDFCBA11. The remaining addresses are linked to numerous other addresses within the cluster multiple times.
 
@@ -2884,7 +2835,7 @@ These addresses share the same CEX deposit address, are part of a cluster with m
 
 
 
-CLUSTER0
+CLUSTER 44
 
 The first 6 addresses of the cluster share the same OKX deposit address: 0x2828A1c761ca8CaCDBF412E9318eEE55c60D2027. The remaining addresses are linked to numerous other addresses within the cluster multiple times.
 
@@ -2926,7 +2877,7 @@ For example, their most recent Layer Zero interactions are the same, with the sa
 These addresses share the same CEX deposit address, are part of a cluster with multiple internal links, and exhibit the same on-chain behavior. This suggests a large-scale sybil operation, likely automated by scripts.
 
 
-CLUSTER26
+CLUSTER 45
 The first 42 addresses of the cluster share the same OKX deposit address: 0xF2b87cD3CA40e80e77FfA225ae8e473BF63743eb. The remaining addresses are linked to numerous other addresses within the cluster multiple times.
 
 0xcf88c881c791b6879a9f1421b57245c3e3008038
@@ -2987,7 +2938,7 @@ For example, their most recent Layer Zero interactions are the same, with the sa
 These addresses share the same CEX deposit address, are part of a cluster with multiple internal links, and exhibit the same on-chain behavior. This suggests a large-scale sybil operation, likely automated by scripts.
 
 
-CLUSTER15
+CLUSTER 46
 
 The first 22 addresses of the cluster share the same Binance deposit address: 0xf75a6896C5479Bf6E481dc0a567e3b4f8cf11768. The remaining addresses are linked to numerous other addresses within the cluster multiple times.
 
