@@ -1,11 +1,11 @@
 
-Independent Clusters
+# Description
 
 This report has been inspired by the one shared by Bryan, I've used this one as a model but absolutely all the clusters and addys are differents.
 
 It is important to understand that each cluster in this report is independent, with its own description and argumentation. While creating a separate issue for each cluster would be ideal, it is not feasible as it would result in my account being flagged for spam on GitHub. Therefore, please evaluate each cluster independently and pardon any changes necessitated by the report's size.
 
-Detailed Methodology and Walkthrough
+# Detailed Methodology & Walkthrough
 
 
 Data Collection
@@ -34,46 +34,49 @@ Blockchain Activity Screening
 
 The activity predating the snapshot was screened across 14 blockchains, including:
 
-Ethereum: end block 19757726
+Ethereum
 
-Optimism: end block 119326917
+Optimism
 
-BSC: end block 38236464
+BSC
 
-Polygon: end block 56379454
+Polygon
 
-Arbitrum: end block 205653169
+Arbitrum
 
-Gnosis: end block 33677943
+Gnosis
 
-Linea: end block 4059728
+Linea
 
-Scroll: end block 5184468
+Scroll
 
-Zksync: end block 32656745
+Zksync
 
-Moonbeam: end block 6045324
+Moonbeam
 
-Moonriver: end block 6637617
+Moonriver
 
-Fantom: end block 80127182
+Fantom
 
-Base: end block 13709885
+Base
 
-Celo: end block 25273962
+Celo
 
 Notes on Arkham Diagrams
 
 Please be aware that links in Arkham diagrams within this report may often be missing, as Arkham only supports 7 out of these 14 blockchains.
 
 
-Reward Address (If Eligible)
+# Reward Address (If Eligible)
 
 0x5B823c2e656A3deFB87847036faEa6Dc20899966
 
 This is a fresh address.
 
-CLUSTER7
+
+# Reported Addresses
+
+CLUSTER 1
 
 These addresses of the cluster share the same OKX deposit address: 0x0FC746381B0dd1e8E5C13A1b2278788c648894f8.
 
@@ -1405,7 +1408,18 @@ The addresses have the same on-chain activity. Their L0 interaction are the exac
 All the adresses made the same lock transaction of STG on Stargate Arbitrum, on the same day.
 
 
-22:37 38 images
+![ScreenShot Tool -20240527223644](https://github.com/onizukais/sybil-check/assets/170208261/f442c2ae-3c5a-4bd5-b27f-53012498862d)
+![ScreenShot Tool -20240527223651](https://github.com/onizukais/sybil-check/assets/170208261/8093e007-9b95-4215-9af1-afa0f974f0b5)
+![ScreenShot Tool -20240527223700](https://github.com/onizukais/sybil-check/assets/170208261/10c43559-fd6d-476e-91b9-a3e0925bac8f)
+![ScreenShot Tool -20240527223708](https://github.com/onizukais/sybil-check/assets/170208261/d2230ca7-7c6c-4a34-8ce1-24bd8ea1a3a5)
+![ScreenShot Tool -20240527223715](https://github.com/onizukais/sybil-check/assets/170208261/53fa54e7-e738-438f-88e4-eea6eb578809)
+![ScreenShot Tool -20240527223722](https://github.com/onizukais/sybil-check/assets/170208261/7c157103-0b8d-4e17-8516-5221442e835a)
+![ScreenShot Tool -20240527223730](https://github.com/onizukais/sybil-check/assets/170208261/7cacf6b8-990a-4f73-b60f-3d8502ee0acd)
+![ScreenShot Tool -20240527223736](https://github.com/onizukais/sybil-check/assets/170208261/9452ac88-f76d-4267-b824-146e25331c30)
+![ScreenShot Tool -20240527223743](https://github.com/onizukais/sybil-check/assets/170208261/2d06c892-d4ad-4701-b0c5-d7527c0ec7bf)
+![ScreenShot Tool -20240527223750](https://github.com/onizukais/sybil-check/assets/170208261/5d4ebaed-9831-4f43-a4df-8331d607ead6)
+
+
 
 
 
@@ -1418,12 +1432,9 @@ CLUSTER140
 The first 11 addresses of the cluster share the same Binance deposit address: 0x77AfB814E97e3Cf45308ee314f8D2921cD7083bf. The remaining addresses are linked to numerous other addresses within the cluster multiple times.
 
 ```
-0x6ebebeedac0e22a4e958d6673db8966a66ed55f1
- 0xda9f35777a672c8036acebf9a571f979df0f85e1
- 0x78e1c70ec76404f6ebc48eaf8392a9192023dfa9
- 0x074a90e19ab552ff39bcad27b2860e06f01f1db8
- 0xaff33f84688c789c455994e76892466ae0de9f28
- 0x7bb3d0637242b7b3f771a690d51abccb0a8b596a
+0x78e1c70ec76404f6ebc48eaf8392a9192023dfa9
+0x074a90e19ab552ff39bcad27b2860e06f01f1db8
+0x7bb3d0637242b7b3f771a690d51abccb0a8b596a
 0xa98737dceba65dae7264bd77fdef41244f53be07
 0xe325f4a40ab8434b4584be3f795fa32d1420af60
 0xf195659048de4e1025144bd8448058e97bfe705e
@@ -1462,6 +1473,20 @@ The addresses have the same on-chain activity. Their L0 interaction are the exac
 <img width="322" alt="image" src="https://github.com/onizukais/sybil-check/assets/170208261/60d43293-b107-402a-93fa-ab5e54c8dd35">
 <img width="361" alt="image" src="https://github.com/onizukais/sybil-check/assets/170208261/2ca8731a-3d65-4fad-91b2-8993f76d25bb">
 <img width="352" alt="image" src="https://github.com/onizukais/sybil-check/assets/170208261/85b40371-f7ce-4496-a018-ce4828d5c883">
+
+All the address of the cluster has made the same ZkSync lite transaction, on the same day.
+
+![ScreenShot Tool -20240527233647](https://github.com/onizukais/sybil-check/assets/170208261/b7983f49-ae3e-401c-adcd-e1fae4f77a08)
+![ScreenShot Tool -20240527233653](https://github.com/onizukais/sybil-check/assets/170208261/75ec77cd-ee18-4c39-a065-00cea5537d5c)
+![ScreenShot Tool -20240527233700](https://github.com/onizukais/sybil-check/assets/170208261/96390f8c-d005-42bf-aa72-687854fbdcd9)
+![ScreenShot Tool -20240527233703](https://github.com/onizukais/sybil-check/assets/170208261/454c09a8-9bc0-4a79-a28a-00ec5ad41c92)
+![ScreenShot Tool -20240527233707](https://github.com/onizukais/sybil-check/assets/170208261/f1c3a5cb-a4f4-4511-bd1e-ee99af3a7ceb)
+![ScreenShot Tool -20240527233716](https://github.com/onizukais/sybil-check/assets/170208261/a64bdc51-9ad5-452e-a1c6-3d76359edc79)
+![ScreenShot Tool -20240527233722](https://github.com/onizukais/sybil-check/assets/170208261/08b693dd-b202-42f9-9ba8-0b3320ba7b7e)
+![ScreenShot Tool -20240527233728](https://github.com/onizukais/sybil-check/assets/170208261/3f2305e2-7e63-4213-b1a1-e015ea89a59a)
+![ScreenShot Tool -20240527233736](https://github.com/onizukais/sybil-check/assets/170208261/786712fd-4996-4c2e-9cc3-8016c9c1007b)
+
+
 
 These addresses share the same CEX deposit address, are part of a cluster with multiple internal links, and exhibit the same on-chain behavior. This suggests a large-scale sybil operation, likely automated by scripts.
 
@@ -1506,6 +1531,20 @@ The addresses have the same on-chain activity. Their L0 interaction are the exac
 <img width="306" alt="image" src="https://github.com/onizukais/sybil-check/assets/170208261/ae85926a-199d-447d-8ba0-26e7bce3bfb9">
 <img width="306" alt="image" src="https://github.com/onizukais/sybil-check/assets/170208261/1be85576-f7ff-4416-9181-a42c23fcbd60">
 <img width="323" alt="image" src="https://github.com/onizukais/sybil-check/assets/170208261/cf15a86d-573c-4183-bf1f-e57ff8ab3b07">
+
+All the addresses of the cluser made a bridge transaction on Starknet at the same date range, for the same amount (around 0.3ETH).
+
+
+![ScreenShot Tool -20240527235346](https://github.com/onizukais/sybil-check/assets/170208261/7faa13de-b7f2-4881-aa15-0f464454de93)
+![ScreenShot Tool -20240527235353](https://github.com/onizukais/sybil-check/assets/170208261/fbb3e2d4-9ea9-4b50-aac3-c390e4b883c7)
+![ScreenShot Tool -20240527235400](https://github.com/onizukais/sybil-check/assets/170208261/a59209e0-efc3-4f9b-b0a1-ae7caeaeac3d)
+![ScreenShot Tool -20240527235407](https://github.com/onizukais/sybil-check/assets/170208261/1fd5ab75-b611-43d1-91b9-a386a5b9daf5)
+![ScreenShot Tool -20240527235415](https://github.com/onizukais/sybil-check/assets/170208261/c47e539c-da43-43b4-8291-862b85c7a801)
+![ScreenShot Tool -20240527235427](https://github.com/onizukais/sybil-check/assets/170208261/aa76cd9b-3748-4eb5-bd65-33bce8ff9435)
+![ScreenShot Tool -20240527235434](https://github.com/onizukais/sybil-check/assets/170208261/ee10f34f-a9d5-4e41-bec1-284f2d77aaf1)
+![ScreenShot Tool -20240527235446](https://github.com/onizukais/sybil-check/assets/170208261/d6b1861e-5f93-4244-ba8e-2d9fe279752f)
+![ScreenShot Tool -20240527235453](https://github.com/onizukais/sybil-check/assets/170208261/0c985e0a-0bc9-479e-8389-ecc155730468)
+![ScreenShot Tool -20240527235501](https://github.com/onizukais/sybil-check/assets/170208261/11701a02-cf8a-411d-b062-cca8c3f9ec84)
 
 
 
