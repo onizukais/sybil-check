@@ -886,8 +886,6 @@ All the addresses of the cluster have made a bridge transaction on ZkSync, on th
 ![ScreenShot Tool -20240527165928](https://github.com/onizukais/sybil-check/assets/170208261/23672b07-6041-410d-b835-3e9079532505)
 
 
-
-
 These addresses share the same CEX deposit address, are part of a cluster with multiple internal links, and exhibit the same on-chain behavior. This suggests a large-scale sybil operation, likely automated by scripts.
 
 
@@ -948,7 +946,6 @@ For example, their most recent Layer Zero interactions are the same, with the sa
 All the addresses of the cluster locked similar amount of STG (around 5 $STG) on the same date range in May 2023 on Stargate Polygon and Stargate BSC.
 
 
-
 ![ScreenShot Tool -20240521001521](https://github.com/onizukais/sybil-check/assets/170208261/db4c5e09-7bf2-49e9-a788-58e49e942ddc)
 ![ScreenShot Tool -20240521001542](https://github.com/onizukais/sybil-check/assets/170208261/0ed4153c-a076-4136-8707-019bd8705840)
 ![ScreenShot Tool -20240521001557](https://github.com/onizukais/sybil-check/assets/170208261/87348131-aa98-49b4-9a01-2c390cb187dd)
@@ -977,7 +974,6 @@ The first 8 addresses of the cluster share the same OKX deposit address: 0x40Cee
 0xb4df81934b43890ed759b0151c1dcabd6375643c
 0x3b781c73e3d7d3c59781e08933a19ecd5e61eac3
 0x82715ec383b5ef8c7e7fb3f1ca079d52a957cdab
-0xccbef52f7f777b3cb86d1318e15f4b9cebcae154
 0x6f8ce26fd34e21e428fc2cf6cd8ca5ca1520a2ba
 0x02c57a67b4a04066f1029d1af807ecebbc09e78a
 0x72df54f3db8feedb05b0b59e4eb8f190db832726
@@ -1029,7 +1025,7 @@ For example, their most recent Layer Zero interactions are the same, with the sa
 ![ScreenShot Tool -20240521003920](https://github.com/onizukais/sybil-check/assets/170208261/c669e562-17a7-4bd1-a25b-eb370fe71fb6)
 ![ScreenShot Tool -20240521003932](https://github.com/onizukais/sybil-check/assets/170208261/3cc67a97-0468-4c75-9778-261849831ac4)
 
-All the addresses of the cluster locked similar amount of STG (around 40 $STG) on the same date range in March 2023 on Stargate Optimism.
+All the addresses of the cluster locked similar amount of STG (around 40 $STG) on Stargate Optimism.
 
 ![ScreenShot Tool -20240521021824](https://github.com/onizukais/sybil-check/assets/170208261/aec8c27d-6fb9-40cc-b623-5c72d798cd09)
 ![ScreenShot Tool -20240521021858](https://github.com/onizukais/sybil-check/assets/170208261/f25bde72-69b2-47d9-af26-a02f672eb2a4)
@@ -1110,6 +1106,15 @@ For example, their most recent Layer Zero interactions are the same, with the sa
 ![ScreenShot Tool -20240521031633](https://github.com/onizukais/sybil-check/assets/170208261/59651028-0767-4cda-8780-7e37a5982775)
 ![ScreenShot Tool -20240521031636](https://github.com/onizukais/sybil-check/assets/170208261/bd4c4634-bb5f-4f1b-b6d0-41baf2cb52f2)
 
+All the addresses of the cluster locked $STG on Stargate Arbitrum on the same date range.
+
+![ScreenShot Tool -20240527185453](https://github.com/onizukais/sybil-check/assets/170208261/c346b600-ac1f-40fe-8b83-9309cb884ff7)
+![ScreenShot Tool -20240527185500](https://github.com/onizukais/sybil-check/assets/170208261/9e1d1c88-a790-4922-bfc0-79dd8ec202b1)
+![ScreenShot Tool -20240527185507](https://github.com/onizukais/sybil-check/assets/170208261/8fdcc09a-a227-44b9-9d1b-c7846e33a5fb)
+![ScreenShot Tool -20240527185514](https://github.com/onizukais/sybil-check/assets/170208261/8bf0909f-10e0-436c-884f-a6d1b6631d9c)
+![ScreenShot Tool -20240527185521](https://github.com/onizukais/sybil-check/assets/170208261/4dc02cbd-187b-481e-8f70-a4f667d78a31)
+![ScreenShot Tool -20240527185527](https://github.com/onizukais/sybil-check/assets/170208261/d58df16d-bcb0-4650-8540-a155b3ea0452)
+![ScreenShot Tool -20240527185533](https://github.com/onizukais/sybil-check/assets/170208261/f8d6f0ae-97fd-4b82-93fa-d00600a90497)
 
 
 
